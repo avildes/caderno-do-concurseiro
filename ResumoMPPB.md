@@ -1,7 +1,7 @@
 
-Resumo dos assuntos do MPPB:
+#Resumo dos assuntos do MPPB:
 
-1. Administração de Banco de Dados. 
+##1. Administração de Banco de Dados. 
 
 1.1 - Administrador de Banco de Dados (DBA)
 	• A administração dos recursos primário (banco de dados) e secundário (SGBD) é de responsabilidade do Administrador de Banco de Dados. Ele também é responsável por autorizar o acesso ao banco de dados, coordenar e monitorar seu uso e adquirir recursos de software e de hardware conforme a necessidade. Também é responsável por problemas como falhas na segurança e demora no tempo de resposta ao sistema.
@@ -23,7 +23,7 @@ Resumo dos assuntos do MPPB:
 
 Obs.: A banca gosta de confundir esses dois cargos, fique atento!
 
-2. Projeto lógico e físico de banco dados.
+##2. Projeto lógico e físico de banco dados.
 Estrutura de um Projeto de Banco de Dados:
  
 2.1 - Análise de Requisitos:
@@ -39,7 +39,7 @@ Estrutura de um Projeto de Banco de Dados:
 	• Esta é a etapa final do projeto de banco de dados e é fortemente ligada ao Sistema de Gerenciamento de Banco de Dados (SGBD) que será utilizado. Nela definem-se os scripts de criação dos objetos no banco de dados (tabelas, visões, colunas, funções, ...), permissões de acesso de usuários e outros detalhes técnicos relacionados a implementação do banco.
 	• A otimização de desempenho do banco de dados é trabalhada nesta fase do projeto. 
 
-3. Modelagem de dados relacional e orientada a objetos. 
+##3. Modelagem de dados relacional e orientada a objetos. 
 
 3.1 - Modelagem Relacional:
 	• Se baseia na teoria dos conjuntos (Álgebra Relacional) e representa o banco de dados como uma coleção de relações. Cada linha da tabela representa uma coleção de valores de dados relacionados. Uma linha representa um fato que normalmente corresponde a uma entidade ou relacionamento do mundo real.
@@ -71,21 +71,21 @@ O valor da chave estrangeira corresponde a uma chave existente e não nula em um
 	• Traz vantagens como o uso de herança e assim aumenta o reuso de código por parte da aplicação.
 	• Faz uso de uma extensão da linguagem de consulta SQL. 
 
-4. Análise e tratamento de vulnerabilidades. 
+##4. Análise e tratamento de vulnerabilidades. 
 - 
-5. Arquitetura de Banco de Dados. 
+##5. Arquitetura de Banco de Dados. 
 - objeto relacional
 hierarquico
 em redes
  relacional
 etc.
-6. Conceitos de Stored Procedure e Triggers. 
+##6. Conceitos de Stored Procedure e Triggers. 
 - 
-7. Controle de acesso a Bancos de Dados. 
+##7. Controle de acesso a Bancos de Dados. 
 - 
-8. Gerência de falhas no ambiente de produção. 
+##8. Gerência de falhas no ambiente de produção. 
 - 
-9. Linguagem SQL ANSI (DDL, DML, DCL, DTL, DQL, Operadores e Funções). 
+##9. Linguagem SQL ANSI (DDL, DML, DCL, DTL, DQL, Operadores e Funções). 
 
 Diferença entre comandos DDL, DML, DCL, DTL, DQL:
 • DDL - Data Definition Language é usada para definir a estrutura do banco de dados ou esquema. Exemplos:
@@ -100,17 +100,17 @@ CREATE, ALTER, TRUNCATE, COMMENT, RENAME
 
 Obs.: Existe uma confusão sobre onde o comando SELECT se encaixa nessas categorias, alguns autores colocam como sendo parte da DML e outros como parte da DQL
 
-10. Modelagem semântica, conceitual, física e lógica. 
+##10. Modelagem semântica, conceitual, física e lógica. 
 - Diferenças entre os tipos de modelagem, classificação?
-11. Plano de contingência. 
+##11. Plano de contingência. 
 - 
-12. Segurança em Bancos de Dados. 
+##12. Segurança em Bancos de Dados. 
 - 
-13. Sistemas Gerenciadores de Bancos de Dados (SGBD): PostgreSQL, MySQL e Oracle. 
+##13. Sistemas Gerenciadores de Bancos de Dados (SGBD): PostgreSQL, MySQL e Oracle. 
 - Estudar peculiaridades do Oracle (Revisar COALESCE) e Postgres
 13.1. Instalação, configuração e administração em ambiente Linux Kernel 4.0. 
 - ? 
-14. Data Warehouse e Data Mining. 
+##14. Data Warehouse e Data Mining. 
 - O que é, objetivos, como se relacionam
 	14.1 - Data Warehouse
 		• "É uma coleção de dados orientados por assunto, integrados, variáveis com o tempo e não voláteis, para dar suporte ao processo de tomada de decisão." - Inmon
@@ -141,14 +141,14 @@ O esquema estrela é uma arquitetura física que permite definir estruturas mult
 	
 
 
-15. Normalização 
+##15. Normalização 
 - Objetivos, níveis de normalização
-16. Replicação de banco de dados; performance e tuning: índices e otimização de acesso, otimização de código SQL ANSI, uso do join, union, exists e subconsultas, desempenho e detecção de problemas. 
+##16. Replicação de banco de dados; performance e tuning: índices e otimização de acesso, otimização de código SQL ANSI, uso do join, union, exists e subconsultas, desempenho e detecção de problemas. 
 - Otimização de código SQL
 - Detecção de problemas
-17. Modelagem de processos de negócio e BPMN. 
-18. Visão do PMBOK 5a edição.
-19. Fundamentos da ITIL v3.
-20. Fundamentos de COBIT. 5.
+##17. Modelagem de processos de negócio e BPMN. 
+##18. Visão do PMBOK 5a edição.
+##19. Fundamentos da ITIL v3.
+##20. Fundamentos de COBIT. 5.
 
 
