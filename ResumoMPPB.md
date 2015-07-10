@@ -238,6 +238,27 @@ As arquiteturas OLAP podem ter:
     Na figura 1, os dados permanecem os mesmos, mas são vistos de uma maneira diferente, sob uma nova perspectiva. Trata-se da ROTAÇÃO.
     
     Na figura 2, estamos entrando mais a fundo nos dados de um Continente, detalhando-os por países. Trata-se da desagregação, ou DRILL-DOWN.
+    
+    
+    Slice - operação que corta o cubo mas mantem as perpectivas de visualização dos dados
+    
+Dice - mudança de perpectiva de visão como se girasse o cubo em nossas mãos buscando descobrir comportamentos conforme a perspectiva de analise dos dados
+
+    
+    Galera segue um bizu:
+Operações OLAP
+Drill Through: Ocorre quando o usuário passa de uma informação contida em uma dimensão para uma outra.
+Slice: Corta o cubo(extrai uma fatia), mas mantém a mesma perspectiva de visualização dos dados. Funciona como um filtro que restringe uma dimensão à apenas um ou alguns de seus valores.
+Dice: extrai um subcubo do cubo original executando uma operação de seleção em duas ou mais dimensões. Mudança de perspectiva da visão multidimensional, como se o cubo fosse girado. Permite descobrir comportamentos e tendências entre os valores das medidas analisadas em diversas perspectivas.
+Drill Across: O nível de análise dentro de uma mesma dimensão é alterado, ou seja, o usuário avança um nível intermediário dentro de uma mesma dimensão.
+Pivot: Adicionar ou rearranjar as dimensões das tabelas.
+Drill Down: proporciona uma visão mais detalhada de um conjunto de dados, descendo na hierarquia de uma dimensão.
+Roll Up: apresenta os dados cada vez mais agrupados ou sumarizados, subindo na hierarquia de uma dimensão.
+Rotation: permite visualizar dados de uma nova perspectiva.
+Fonte:Teleco,UFSC
+
+    
+    
 ```
 
 ###14.x - Data Mining
