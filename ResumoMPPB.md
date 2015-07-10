@@ -137,22 +137,29 @@ Obs.: Existe uma confusão sobre onde o comando SELECT se encaixa nessas categor
 
 	###14.1 - Data Warehouse
 
-		• "É uma coleção de dados orientados por assunto, integrados, variáveis com o tempo e não voláteis, para dar suporte ao processo de tomada de decisão." - Inmon
-		• "É um conjunto de ferramentas e técnicas de projeto, que quando aplicadas às necessidades específicas dos usuários e aos banco de dados específicos permitirá que planejem e construam um data warehouse." - Kimball
-		• Características:
-			--> Orientados por assunto:
-				Os dados são organizados para ressaltar temas específicos importantes para o negócio da empresa. Por exemplo: Produtos, Clientes, Atividades, Contas. Em contrapartida, o ambiente operacional é organizado por aplicações funcionais. Por exemplo, uma organização bancária incluiria, empréstimos, investimentos e seguros.
-			--> Integrado:
-				Os dados presentes no Data Warehouse passaram por um processo de transformação para uniformizar os nomes, unidades e formatação utilizados. Conforme os dados são inseridos no Data Warehouse, eles são convertidos para um mesmo padrão. Por exemplo, considerando sexo como um elemento de dado, uma aplicação pode codificar sexo como M/F, outra como 1/0 e uma terceira como H/M.
-	 		--> Não-Volátil:
-				O Data Warehouse permite apenas a carga inicial e consultas a estes dados. Após serem integrados e transformados, os dados são carregados em bloco para o Data Warehouse, para que estes estejam disponíveis aos usuários para acesso. No ambiente operacional, ao contrário, os dados são, em geral, atualizados registro a registro, em múltiplas transações. 
-			--> Variante no tempo
-				O dado presente em um DW refere-se a um momento específico, significando que ele não é atualizável. O dado de produção é atualizado de acordo com mudanças do objeto em questão, refletindo assim, o estado do objeto no momento do acesso.
-		• Em um DW, a cada ocorrência de uma mudança, uma nova entrada é criada, para marcar essa mudança.
-		• O tratamento de séries temporais apresenta características específicas que adicionam complexidade ao ambiente do DW.
-		• Deve-se considerar que não apenas os dados tem uma característica temporal, mas também os metadados, que incluem definições dos itens de dados, rotinas de validação, algoritmos de derivação, etc.
-		• Sem a manutenção do histórico dos metadados as mudanças das regras de negócio que afetam os dados no DW são perdidas, invalidando dados históricos.
-		• Granularidade:
+ "É uma coleção de dados orientados por assunto, integrados, variáveis com o tempo e não voláteis, para dar suporte ao processo de tomada de decisão." - Inmon
+
+ "É um conjunto de ferramentas e técnicas de projeto, que quando aplicadas às necessidades específicas dos usuários e aos banco de dados específicos permitirá que planejem e construam um data warehouse." - Kimball
+
+Características:
+* Orientados por assunto:
+Os dados são organizados para ressaltar temas específicos importantes para o negócio da empresa. Por exemplo: Produtos, Clientes, Atividades, Contas. Em contrapartida, o ambiente operacional é organizado por aplicações funcionais. Por exemplo, uma organização bancária incluiria, empréstimos, investimentos e seguros.
+* Integrado:
+Os dados presentes no Data Warehouse passaram por um processo de transformação para uniformizar os nomes, unidades e formatação utilizados. Conforme os dados são inseridos no Data Warehouse, eles são convertidos para um mesmo padrão. Por exemplo, considerando sexo como um elemento de dado, uma aplicação pode codificar sexo como M/F, outra como 1/0 e uma terceira como H/M.
+* Não-Volátil:
+O Data Warehouse permite apenas a carga inicial e consultas a estes dados. Após serem integrados e transformados, os dados são carregados em bloco para o Data Warehouse, para que estes estejam disponíveis aos usuários para acesso. No ambiente operacional, ao contrário, os dados são, em geral, atualizados registro a registro, em múltiplas transações. 
+* Variante no tempo
+O dado presente em um DW refere-se a um momento específico, significando que ele não é atualizável. O dado de produção é atualizado de acordo com mudanças do objeto em questão, refletindo assim, o estado do objeto no momento do acesso.
+
+Em um DW, a cada ocorrência de uma mudança, uma nova entrada é criada, para marcar essa mudança.
+
+O tratamento de séries temporais apresenta características específicas que adicionam complexidade ao ambiente do DW.
+
+Deve-se considerar que não apenas os dados tem uma característica temporal, mas também os metadados, que incluem definições dos itens de dados, rotinas de validação, algoritmos de derivação, etc.
+
+Sem a manutenção do histórico dos metadados as mudanças das regras de negócio que afetam os dados no DW são perdidas, invalidando dados históricos.
+
+Granularidade:
 
 ------------------------------
 
