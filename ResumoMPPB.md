@@ -217,6 +217,13 @@ Do mesmo modo, o fato das análises serem realizadas sobre dados históricos lev
 * Umas vez que os dados são históricos as atualizações não precisam ser tão frequentes. Por exemplo, numa comparação entre a produtividade de três filiais de uma empresa para um determinado produto nos últimos quatro anos, por mês, o dia de hoje ou mesmo o de ontem não é, em geral, de grande representatividade.
 * As análises geralmente agrupam informações, sendo tais agrupamentos mais importantes neste contexto do que os dados detalhados. No exemplo do item anterior, o importante é a produção conjunta mensal, e não a produção de uma unidade particular do produto analisado.
 
+As arquiteturas OLAP podem ter:
+* Alicerce Relacional: Diversas ferramentas analíticas, também chamadas ferramentas de OLAP, operam sobre bases de dados multidimensionais armazenadas em SGBDRs. Além disso, as agregações são também mantidas em banco de dados relacional. Esta forma de armazenamento é conhecida como ROLAP. Uma vez que os dados já se encontram em um modelo apropriado, chamado multidimensional, basta processar as agregações. Com isso obtém-se ganho de espaço de armazenamento, uma vez que os dados permanecem apenas na base de origem.
+
+* Alicerce em Cubos: Outra forma de armazenamento, cujo modelo matemático denomina-se hipercubos, apresenta a característica de possuir armazenamento e indexação em estruturas de dados que otimizam consultas ao invés de atualizações. Quando o modelo multidimensional é processado, nova base é gerada, desta vez contendo tanto os dados quanto as agregações em formato próprio, utilizando-se de estruturas apropriadas para pesquisas.
+
+###14.x - Data Mining
+
 ##15. Normalização
 
 - Objetivos, níveis de normalização
