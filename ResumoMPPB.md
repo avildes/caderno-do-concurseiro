@@ -222,6 +222,15 @@ As arquiteturas OLAP podem ter:
 
 * Alicerce em Cubos: Outra forma de armazenamento, cujo modelo matemático denomina-se hipercubos, apresenta a característica de possuir armazenamento e indexação em estruturas de dados que otimizam consultas ao invés de atualizações. Quando o modelo multidimensional é processado, nova base é gerada, desta vez contendo tanto os dados quanto as agregações em formato próprio, utilizando-se de estruturas apropriadas para pesquisas.
 
+    Operações do OLAP:
+        -Slice: Seleção de dados em 1 dimensão
+        -Dice: Seleção de dados em 2 ou mais dimensões
+        -Roll-Up: Agregação de dados - maior generalização, menor detalhe
+        -Drill-Down: Desagregação de dados - menor generalização, maior detalhe
+        -Rotation: Permite visualizar os dados sob uma nova perspectiva, sem reduzir/aumentar o escopo dos dados
+    Na figura 1, os dados permanecem os mesmos, mas são vistos de uma maneira diferente, sob uma nova perspectiva. Trata-se da ROTAÇÃO.
+    Na figura 2, estamos entrando mais a fundo nos dados de um Continente, detalhando-os por países. Trata-se da desagregação, ou DRILL-DOWN.
+
 ###14.x - Data Mining
 
 ##15. Normalização
