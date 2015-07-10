@@ -71,20 +71,31 @@ O valor da chave estrangeira corresponde a uma chave existente e não nula em um
 	• Traz vantagens como o uso de herança e assim aumenta o reuso de código por parte da aplicação.
 	• Faz uso de uma extensão da linguagem de consulta SQL. 
 
+
 ##4. Análise e tratamento de vulnerabilidades. 
+
 - 
+
 ##5. Arquitetura de Banco de Dados. 
+
 - objeto relacional
 hierarquico
 em redes
  relacional
 etc.
+
 ##6. Conceitos de Stored Procedure e Triggers. 
+
 - 
+
 ##7. Controle de acesso a Bancos de Dados. 
+
 - 
+
 ##8. Gerência de falhas no ambiente de produção. 
+
 - 
+
 ##9. Linguagem SQL ANSI (DDL, DML, DCL, DTL, DQL, Operadores e Funções). 
 
 Diferença entre comandos DDL, DML, DCL, DTL, DQL:
@@ -144,10 +155,12 @@ O esquema estrela é uma arquitetura física que permite definir estruturas mult
 ##15. Normalização
 
 - Objetivos, níveis de normalização
+
 ##16. Replicação de banco de dados; performance e tuning: índices e otimização de acesso, otimização de código SQL ANSI, uso do join, union, exists e subconsultas, desempenho e detecção de problemas. 
 
 - Otimização de código SQL
 - Detecção de problemas
+
 ##17. Modelagem de processos de negócio e BPMN. 
 
 ##18. Visão do PMBOK 5a edição.
