@@ -165,6 +165,20 @@ Obs.: Existe uma confusão sobre onde o comando SELECT se encaixa nessas categor
 O esquema estrela é uma arquitetura física que permite definir estruturas multidimensionais de dados. Ela é composta por uma tabela central, denominada fato, e várias tabelas periféricas a ela relacionadas, denominadas dimensões. Fazem com que a expansão e a evolucão da base de dados necessite de pouca atividade de manutenca
 	
 
+Característica | Sistemas Transacionais (OLTP) | Sistemas Analíticos (OLAP)
+------------ | ------------- | -------------
+Atualizações | Mais Frequentes | Menos Frequentes
+Tipo de Informação | Detalhes | Agrupamento
+Quantidade de Dados | Poucos | Muitos
+Precisão | Dados atuais | Dados históricos
+Complexidade | Baixa | Alta
+Consistência | Microscópica | Global
+Exemplos | CRM, ERP, Supply Chain | MIS, DSS, EIS
+Terminologia | Linhas e Colunas | Dimensões, Medidas e Fatos
+
+[Fonte] (https://vivianeribeiro1.wordpress.com/2011/07/12/o-que-e-olap/)
+
+
 
 ##15. Normalização
 
