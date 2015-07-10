@@ -158,12 +158,22 @@ Obs.: Existe uma confusão sobre onde o comando SELECT se encaixa nessas categor
 
 ###14.x - Star Schema
 
-		• Esquema estrela: abordagem que recomenda a não normalizacão das tabelas dimensão.
-		• Snow flake ou esquema de flocos de neve: abordagem que recomenda a normalizacão das tabelas dimensão. 
+		• Esquema estrela: abordagem que recomenda a não normalização das tabelas dimensão.
+		• Snow flake ou esquema de flocos de neve: abordagem que recomenda a normalização das tabelas dimensão. 
 
 
-O esquema estrela é uma arquitetura física que permite definir estruturas multidimensionais de dados. Ela é composta por uma tabela central, denominada fato, e várias tabelas periféricas a ela relacionadas, denominadas dimensões. Fazem com que a expansão e a evolucão da base de dados necessite de pouca atividade de manutenca
-	
+O esquema estrela é uma arquitetura física que permite definir estruturas multidimensionais de dados. Ela é composta por uma tabela central, denominada fato, e várias tabelas periféricas a ela relacionadas, denominadas dimensões. Fazem com que a expansão e a evolução da base de dados necessite de pouca atividade de manutenção. É um esquema onde o número de junções realizadas é relativamente menor que o realizado em bases de dados relacionais convencionais.
+
+####Star Schemas e Cubos OLAP (Online Analytical Processing)
+
+Esquemas estrela são estruturas multidimensionais implantados em um SGBD relacional (RDBMS - Relational Database Management System).
+Consistem em uma tabela fato ligada a um conjunto de tabelas dimensão associadas através de relações chave primária/estrangeira.
+
+    Esquemas estrela são estruturas multidimensionais implantados em um SGBD relacional (RDBMS - Relational Database Management System).
+    Consistem em uma tabela fato ligada a um conjunto de tabelas dimensão associadas através de relações chave primária/estrangeira.
+
+* Esquemas estrela são estruturas multidimensionais implantados em um SGBD relacional (RDBMS - Relational Database Management System).
+* Consistem em uma tabela fato ligada a um conjunto de tabelas dimensão associadas através de relações chave primária/estrangeira.	
 
 Característica | Sistemas Transacionais (OLTP) | Sistemas Analíticos (OLAP)
 ------------ | ------------- | -------------
