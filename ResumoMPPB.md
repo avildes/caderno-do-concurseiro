@@ -169,11 +169,7 @@ O esquema estrela é uma arquitetura física que permite definir estruturas mult
 Esquemas estrela são estruturas multidimensionais implantados em um SGBD relacional (RDBMS - Relational Database Management System).
 Consistem em uma tabela fato ligada a um conjunto de tabelas dimensão associadas através de relações chave primária/estrangeira.
 
-    Esquemas estrela são estruturas multidimensionais implantados em um SGBD relacional (RDBMS - Relational Database Management System).
-    Consistem em uma tabela fato ligada a um conjunto de tabelas dimensão associadas através de relações chave primária/estrangeira.
-
-* Esquemas estrela são estruturas multidimensionais implantados em um SGBD relacional (RDBMS - Relational Database Management System).
-* Consistem em uma tabela fato ligada a um conjunto de tabelas dimensão associadas através de relações chave primária/estrangeira.	
+O cubo de processamento analítico online é uma estrutura multidimensional implementada em um banco de dados multidimensional, que pode ser equivalente em conteúdo, ou mais frequentemente derivado de um esquema em estrela relacional. Um cubo OLAP contém atributos dimensionais e fatos, mas é acessado através de linguagens com mais capacidade analítica do que SQL, como [XMLA (XML for Analysis)] (https://en.wikipedia.org/wiki/XML_for_Analysis) e [MDX (Multidimensional Expressions] (https://en.wikipedia.org/wiki/MultiDimensional_eXpressions).
 
 Característica | Sistemas Transacionais (OLTP) | Sistemas Analíticos (OLAP)
 ------------ | ------------- | -------------
