@@ -201,7 +201,14 @@ Terminologia | Linhas e Colunas | Dimensões, Medidas e Fatos
 
 [Fonte] (https://vivianeribeiro1.wordpress.com/2011/07/12/o-que-e-olap/)
 
+O fato dos sistemas transacionais (OLTP) refletirem a situação atual de um determinado tipo de dado conduz todas as demais características, como:
+* A realização de atualizações frequentemente, matendo os dados atuais;
+* Informação detalhada com a maior granularidade possível (consistência microscópica);
+* Pesquisas pontuais, portanto de baixa complexidade no tocante ao negócio (do ponto de vista técnico, a pesquisa pode ser bem elaborada).
 
+Do mesmo modo, o fato das análises serem realizadas sobre dados históricos leva às seguintes características:
+* Umas vez que os dados são históricos as atualizações não precisam ser tão frequentes. Por exemplo, numa comparação entre a produtividade de três filiais de uma empresa para um determinado produto nos últimos quatro anos, por mês, o dia de hoje ou mesmo o de ontem não é, em geral, de grande representatividade.
+* As análises geralmente agrupam informações, sendo tais agrupamentos mais importantes neste contexto do que os dados detalhados. No exemplo do item anterior, o importante é a produção conjunta mensal, e não a produção de uma unidade particular do produto analisado.
 
 ##15. Normalização
 
