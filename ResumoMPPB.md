@@ -112,18 +112,31 @@ CREATE, ALTER, TRUNCATE, COMMENT, RENAME
 Obs.: Existe uma confusão sobre onde o comando SELECT se encaixa nessas categorias, alguns autores colocam como sendo parte da DML e outros como parte da DQL
 
 ##10. Modelagem semântica, conceitual, física e lógica. 
+
 - Diferenças entre os tipos de modelagem, classificação?
+
 ##11. Plano de contingência. 
+
 - 
+
 ##12. Segurança em Bancos de Dados. 
+
 - 
+
 ##13. Sistemas Gerenciadores de Bancos de Dados (SGBD): PostgreSQL, MySQL e Oracle. 
+
 - Estudar peculiaridades do Oracle (Revisar COALESCE) e Postgres
-13.1. Instalação, configuração e administração em ambiente Linux Kernel 4.0. 
+
+###13.1. Instalação, configuração e administração em ambiente Linux Kernel 4.0. 
+
 - ? 
+
 ##14. Data Warehouse e Data Mining. 
+
 - O que é, objetivos, como se relacionam
-	14.1 - Data Warehouse
+
+	###14.1 - Data Warehouse
+
 		• "É uma coleção de dados orientados por assunto, integrados, variáveis com o tempo e não voláteis, para dar suporte ao processo de tomada de decisão." - Inmon
 		• "É um conjunto de ferramentas e técnicas de projeto, que quando aplicadas às necessidades específicas dos usuários e aos banco de dados específicos permitirá que planejem e construam um data warehouse." - Kimball
 		• Características:
@@ -143,7 +156,8 @@ Obs.: Existe uma confusão sobre onde o comando SELECT se encaixa nessas categor
 
 ------------------------------
 
-14.x - Star Schema
+###14.x - Star Schema
+
 		• Esquema estrela: abordagem que recomenda a não normalizacão das tabelas dimensão.
 		• Snow flake ou esquema de flocos de neve: abordagem que recomenda a normalizacão das tabelas dimensão. 
 
