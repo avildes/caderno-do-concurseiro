@@ -141,14 +141,20 @@ O esquema estrela é uma arquitetura física que permite definir estruturas mult
 	
 
 
-##15. Normalização 
+##15. Normalização
+
 - Objetivos, níveis de normalização
 ##16. Replicação de banco de dados; performance e tuning: índices e otimização de acesso, otimização de código SQL ANSI, uso do join, union, exists e subconsultas, desempenho e detecção de problemas. 
+
 - Otimização de código SQL
 - Detecção de problemas
 ##17. Modelagem de processos de negócio e BPMN. 
+
 ##18. Visão do PMBOK 5a edição.
+
 ##19. Fundamentos da ITIL v3.
+
 ##20. Fundamentos de COBIT. 5.
+
 
 
