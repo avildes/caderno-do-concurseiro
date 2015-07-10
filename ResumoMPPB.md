@@ -169,7 +169,24 @@ O esquema estrela é uma arquitetura física que permite definir estruturas mult
 Esquemas estrela são estruturas multidimensionais implantados em um SGBD relacional (RDBMS - Relational Database Management System).
 Consistem em uma tabela fato ligada a um conjunto de tabelas dimensão associadas através de relações chave primária/estrangeira.
 
-O cubo de processamento analítico online é uma estrutura multidimensional implementada em um banco de dados multidimensional, que pode ser equivalente em conteúdo, ou mais frequentemente derivado de um esquema em estrela relacional. Um cubo OLAP contém atributos dimensionais e fatos, mas é acessado através de linguagens com mais capacidade analítica do que SQL, como [XMLA (XML for Analysis)] (https://en.wikipedia.org/wiki/XML_for_Analysis) e [MDX (Multidimensional Expressions] (https://en.wikipedia.org/wiki/MultiDimensional_eXpressions).
+O cubo de processamento analítico online é uma estrutura multidimensional implementada em um banco de dados multidimensional, que pode ser equivalente em conteúdo, ou mais frequentemente derivado de um esquema em estrela relacional. Um cubo OLAP contém atributos dimensionais e fatos, mas é acessado através de linguagens com mais capacidade analítica do que SQL, como [XMLA (XML for Analysis)] (https://en.wikipedia.org/wiki/XML_for_Analysis) e [MDX (Multidimensional Expressions)] (https://en.wikipedia.org/wiki/MultiDimensional_eXpressions).
+
+Cubos OLAP são incluídos nesta lista de técnicas básicas (vide aula) porque um cubo OLAP é muitas vezes o último passo na implantação de um sistema de DW/BI dimensional, ou pode existir como uma estrutura agregada com base em um esquema estrela relacional mais atômico.
+
+Considerações sobre OLAP:
+
+* Um esquema em estrela hospedado em um BD relacional é uma boa base física para a construção de um cubo OLAP, e é geralmente considerado como uma base mais estável para backup e recuperação.
+* Cubos OLAP eram tradicionalmente conhecidos por vantagens extremas de desempenho comparados com RDBMSs, mas essa distinção tornou-se menos importante com avanços técnologicos.
+* Estruturas de dados de cubo OLAP são as mais variadas entre os diferentes fornecedores de SGBDs relacionais, assim, os detalhes da implantação final muitas vezes dependem do fornecedor que foi escolhido.
+* Normalmente, é mais difícil de portar aplicações de BI entre as diferentes ferramentas OLAP do que portar aplicações de BI entre diferentes bancos de dados relacionais.
+
+** Tabelas de fatos agregados vs cubos OLAP **
+
+####OLAP (Online Analytical Processing) vs OLTP (Online Transactional Processing)
+
+**OLTP** - Sistemas transacionais, também conhecidos como sintéticos ou OLTP, são aqueles que, como o nome sugere, baseiam-se em transações. São caracterizados pela alta taxa de atualização, grande volume de dados e acessos pontuais, ou seja, pesquisas cujo resultado seja de pequeno volume ( até milhares de linhas, mas preferencialmente menos).
+
+**OLAP** - Sistemas analíticos se caracterizam por fornecer subsídio para tomadas de decisão, a partir de análises realizadas sobre bases de dados históricas, por vezes com milhões de registros a serem totalizados.
 
 Característica | Sistemas Transacionais (OLTP) | Sistemas Analíticos (OLAP)
 ------------ | ------------- | -------------
