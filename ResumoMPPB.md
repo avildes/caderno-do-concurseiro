@@ -137,9 +137,11 @@ Obs.: Existe uma confusão sobre onde o comando SELECT se encaixa nessas categor
 
 	###14.1 - Data Warehouse
 
- "É uma coleção de dados orientados por assunto, integrados, variáveis com o tempo e não voláteis, para dar suporte ao processo de tomada de decisão." - Inmon
+>"É uma coleção de dados orientados por assunto, integrados, variáveis com o tempo e não voláteis, para dar suporte ao processo de tomada de decisão."
+>- Inmon
 
- "É um conjunto de ferramentas e técnicas de projeto, que quando aplicadas às necessidades específicas dos usuários e aos banco de dados específicos permitirá que planejem e construam um data warehouse." - Kimball
+>"É um conjunto de ferramentas e técnicas de projeto, que quando aplicadas às necessidades específicas dos usuários e aos banco de dados específicos permitirá que planejem e construam um data warehouse."
+>- Kimball
 
 Características:
 * Orientados por assunto:
