@@ -121,7 +121,25 @@ Obs.: Existe uma confusão sobre onde o comando SELECT se encaixa nessas categor
 
 ##12. Segurança em Bancos de Dados. 
 
-- 
+Um SGBD normalmente inclui um **subsistema de segurança e autorização do banco de dados** que  é responsável por garantir a segurança de partes de um banco de dados contra acesso não autorizado. Agora, é comum referir-se a dois tipos de mecanismos de segurança de banco de dados:
+
+* **Mecanismos de segurança discricionários**: estes são usados para conceder privilégios aos usuários, incluindo a capacidade de acessar arquivos de dados, registros ou campos específicos em um modo especificado (como leitura, inserção, exclusão ou atualização).
+
+* **Mecanismos de segurança obrigatórios**: Estes são usados para impor a segurança multinível pela classificação de dados e usuários em várias classes (ou níveis) de segurança e, depois, pela implementação da política de seguranca apropriada da organização. Por exemplo, uma política de segurança típica é permitir que os usuários em certo nível de classificação (ou liberação) vejam apenas os itens de dados classificados no próprio nível de classificação (ou inferior) do usuário. Uma extensão disso é a segurança baseaada em papéis, que impõe políticas e privilégios com base no conceito de papéis organizacionais.
+
+Politicas de acesso ao banco de dados
+Mandataria, compulsoria ou obrigatoria
+e
+Discricionaria
+
+Informalmente existem dois níveis de privilégios para o uso do sistema de banco de dados. 
+* Nível de conta: nesse nível, o DBA estabelece os privilégios específicos que cada conta tem, independente das relações no banco de dados.
+
+* Nível de relação: Nesse nível, o DBA pode controlar o privilégio para acessar cada relação ou visão individual no banco de dados.
+
+Estrutura de classificação de dados do banco de dados (estática,...)
+
+Mandatory Access Control (MAC). Controle utilizado em sistemas cujos dados são altamente sensíveis, como governamentais e militares.
 
 ##13. Sistemas Gerenciadores de Bancos de Dados (SGBD): PostgreSQL, MySQL e Oracle. 
 
