@@ -125,21 +125,27 @@ Um SGBD normalmente inclui um **subsistema de segurança e autorização do banc
 
 * **Mecanismos de segurança discricionários**: estes são usados para conceder privilégios aos usuários, incluindo a capacidade de acessar arquivos de dados, registros ou campos específicos em um modo especificado (como leitura, inserção, exclusão ou atualização).
 
-* **Mecanismos de segurança obrigatórios**: Estes são usados para impor a segurança multinível pela classificação de dados e usuários em várias classes (ou níveis) de segurança e, depois, pela implementação da política de seguranca apropriada da organização. Por exemplo, uma política de segurança típica é permitir que os usuários em certo nível de classificação (ou liberação) vejam apenas os itens de dados classificados no próprio nível de classificação (ou inferior) do usuário. Uma extensão disso é a segurança baseaada em papéis, que impõe políticas e privilégios com base no conceito de papéis organizacionais.
-
-Politicas de acesso ao banco de dados
-Mandataria, compulsoria ou obrigatoria
-e
-Discricionaria
+* **Mecanismos de segurança obrigatórios (Mandatários ou ainda Compulsórios)**: Estes são usados para impor a segurança multinível pela classificação de dados e usuários em várias classes (ou níveis) de segurança e, depois, pela implementação da política de seguranca apropriada da organização. Por exemplo, uma política de segurança típica é permitir que os usuários em certo nível de classificação (ou liberação) vejam apenas os itens de dados classificados no próprio nível de classificação (ou inferior) do usuário. Uma extensão disso é a segurança baseaada em papéis, que impõe políticas e privilégios com base no conceito de papéis organizacionais.
 
 Informalmente existem dois níveis de privilégios para o uso do sistema de banco de dados. 
 * Nível de conta: nesse nível, o DBA estabelece os privilégios específicos que cada conta tem, independente das relações no banco de dados.
 
 * Nível de relação: Nesse nível, o DBA pode controlar o privilégio para acessar cada relação ou visão individual no banco de dados.
 
+> CESPE: A principal desvantagem dos modelos de políticas de controle discricionário em relação às políticas de acesso obrigatório é a sua vulnerabilidade a ataques maliciosos. **(CORRETO)**
+
 Estrutura de classificação de dados do banco de dados (estática,...)
 
 Mandatory Access Control (MAC). Controle utilizado em sistemas cujos dados são altamente sensíveis, como governamentais e militares.
+
+**Medidas de Controle**
+
+Quatro medidas de controle principais são usadas para fornecer a segurança nos bancos de dados:
+* Controle de acesso
+* Controle de inferência
+* Controle de fluxo
+* Criptografia de dados
+
 
 ##13. Sistemas Gerenciadores de Bancos de Dados (SGBD): PostgreSQL, MySQL e Oracle. 
 
