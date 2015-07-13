@@ -127,16 +127,24 @@ Um SGBD normalmente inclui um **subsistema de segurança e autorização do banc
 
 * **Mecanismos de segurança obrigatórios (Mandatários ou ainda Compulsórios)**: Estes são usados para impor a segurança multinível pela classificação de dados e usuários em várias classes (ou níveis) de segurança e, depois, pela implementação da política de seguranca apropriada da organização. Por exemplo, uma política de segurança típica é permitir que os usuários em certo nível de classificação (ou liberação) vejam apenas os itens de dados classificados no próprio nível de classificação (ou inferior) do usuário. Uma extensão disso é a segurança baseaada em papéis, que impõe políticas e privilégios com base no conceito de papéis organizacionais.
 
+> CESPE: A principal desvantagem dos modelos de políticas de controle discricionário em relação às políticas de acesso obrigatório é a sua vulnerabilidade a ataques maliciosos. **(CORRETO)**
+
+**Funções do DBA na segurança de dados**
+
+Os comandos privilegiados do DBA incluem aqueles para conceder e revogar privilégios a contas, usuários ou grupos de usuários individuais e para realizar os seguintes tipos de ações:
+* **Criação de conta**: Essa ação cria uma conta e senha para um usuário ou grupo de usuários para permitir acesso ao SGBD.
+* **Concessão de privilégio**: Essa ação permite que o DBA conceda certos privilégios a determinadas contas.
+* **Revogação de privilégio**: Essa ação permite que o DBA revogue (cancele alguns privilégios que foram dados anteriormente a certas contas.
+* **Atribuição de nível de segurança**: Essa ação consiste em atribuir contas do usuário ao nível de liberação de segurança apropriado.
+
+---
+
 Informalmente existem dois níveis de privilégios para o uso do sistema de banco de dados. 
 * Nível de conta: nesse nível, o DBA estabelece os privilégios específicos que cada conta tem, independente das relações no banco de dados.
 
 * Nível de relação: Nesse nível, o DBA pode controlar o privilégio para acessar cada relação ou visão individual no banco de dados.
 
-> CESPE: A principal desvantagem dos modelos de políticas de controle discricionário em relação às políticas de acesso obrigatório é a sua vulnerabilidade a ataques maliciosos. **(CORRETO)**
-
-Estrutura de classificação de dados do banco de dados (estática,...)
-
-Mandatory Access Control (MAC). Controle utilizado em sistemas cujos dados são altamente sensíveis, como governamentais e militares.
+---
 
 **Medidas de Controle**
 
@@ -146,6 +154,16 @@ Quatro medidas de controle principais são usadas para fornecer a segurança nos
 * Controle de fluxo
 * Criptografia de dados
 
+---
+**Três tipos de SQL Injection:**
+* Manipulação de SQL:
+ Um ataque de manipulação, que é do tipo mais comum de ataque de injeção, muda um comando SQL na aplicação - por exemplo, ao acrescentar condições a cláusula WHERE de uma consulta, ou ao expandir uma consulta com componentes de consultas adicionais, usando operações de união como UNION, INTERSECT, ou MINUS.
+* Injeção de código:
+ Esse tipo de ataque tenta acrescentar instruções SQL ou comandos adicionais à instrução SQL existente, explorando um bug do computador, que é causado pelo processamento de dados inválidos. O atacante pode injetar ou introduzir código em um programa de computador para alterar o curso da execução. A injeção de código é uma técnica popular para a invasão ou penetração no sistema para obter informações.
+* Injeção de chamada de função:
+ Nesse tipo de ataque, uma função do banco de dados ou uma chamada de função do sistema operacional é inserida em uma instrução SQL vulnerável para manipular os dados ou fazer uma chamada privilegiada. Por exemplo, é possível explorar uma função que realiza algum aspecto relacionado à comunicação na rede.
+
+---
 
 ##13. Sistemas Gerenciadores de Bancos de Dados (SGBD): PostgreSQL, MySQL e Oracle. 
 
@@ -242,9 +260,9 @@ Do mesmo modo, o fato das análises serem realizadas sobre dados históricos lev
 * As análises geralmente agrupam informações, sendo tais agrupamentos mais importantes neste contexto do que os dados detalhados. No exemplo do item anterior, o importante é a produção conjunta mensal, e não a produção de uma unidade particular do produto analisado.
 
 As arquiteturas OLAP podem ter:
-* Alicerce Relacional: Diversas ferramentas analíticas, também chamadas ferramentas de OLAP, operam sobre bases de dados multidimensionais armazenadas em SGBDRs. Além disso, as agregações são também mantidas em banco de dados relacional. Esta forma de armazenamento é conhecida como ROLAP. Uma vez que os dados já se encontram em um modelo apropriado, chamado multidimensional, basta processar as agregações. Com isso obtém-se ganho de espaço de armazenamento, uma vez que os dados permanecem apenas na base de origem.
+* **Alicerce Relacional:** Diversas ferramentas analíticas, também chamadas ferramentas de OLAP, operam sobre bases de dados multidimensionais armazenadas em SGBDRs. Além disso, as agregações são também mantidas em banco de dados relacional. Esta forma de armazenamento é conhecida como ROLAP. Uma vez que os dados já se encontram em um modelo apropriado, chamado multidimensional, basta processar as agregações. Com isso obtém-se ganho de espaço de armazenamento, uma vez que os dados permanecem apenas na base de origem.
 
-* Alicerce em Cubos: Outra forma de armazenamento, cujo modelo matemático denomina-se hipercubos, apresenta a característica de possuir armazenamento e indexação em estruturas de dados que otimizam consultas ao invés de atualizações. Quando o modelo multidimensional é processado, nova base é gerada, desta vez contendo tanto os dados quanto as agregações em formato próprio, utilizando-se de estruturas apropriadas para pesquisas.
+* **Alicerce em Cubos:** Outra forma de armazenamento, cujo modelo matemático denomina-se hipercubos, apresenta a característica de possuir armazenamento e indexação em estruturas de dados que otimizam consultas ao invés de atualizações. Quando o modelo multidimensional é processado, nova base é gerada, desta vez contendo tanto os dados quanto as agregações em formato próprio, utilizando-se de estruturas apropriadas para pesquisas.
 
 ```
     Operações do OLAP:
