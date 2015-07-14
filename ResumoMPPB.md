@@ -103,8 +103,15 @@ CREATE PROCEDURE <nome do procedimento>
 <corpo do procedimento>;
 ```
 Os parâmetros e declarações locais são opcionais e especificados apenas se necessário. Para declarar uma função, um tipo de retorno é necessário, de modo que o formato da declaração é:
+```
+CREATE FUNCTION <nome da funcao>
+(<parametros>)
+RETURNS <tipo de retorno>
+<declaracoes de local>
+<corpo da funcao>;
+```
+Em geral, cada parâmetro deve ter um **tipo de parâmetro**, o qual é um dos tipos de dados da SQL. Cada parâmetro também deve ter um **modo de parâmetro**, que é um dentre IN, OUT, ou INOUT. Estes correspondem a parâmetros cujos valores são apenas de entrada, apenas de saída (retornados) ou de entrada e saída, respectivamente.
 
-abc
 ### Triggers
 
 - 
