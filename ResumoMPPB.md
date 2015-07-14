@@ -114,6 +114,9 @@ Em geral, cada parâmetro deve ter um **tipo de parâmetro**, o qual é um dos t
 
 ### Triggers
 
+Outro comando importante em SQL é o CREATE TRIGGER. Em muitos casos, é conveniente especificar um tipo de ação a ser tomada quando certos eventos ocorrem e quando certas condições são satisfeitas. Por exemplo, pode ser útil especifircar uma condição que, se violada, faz que algum usuário seja informado dela. Um gerente pode querer ser informado se despesas de viagem de um funcionário execederem certo limite, recebendo uma mensagem sempre que isso acontecer. A ação que o SGBD deve tomar nesse caso é enviar uma mensagem apropriada a esse usuário. A condição, portanto, é usada para monitorar o banco de dados. Outras ações podem ser especificadas, como executar um procedimento armazenado (Stored Procedure) específico ou disparar outras atualizações.
+
+
 - 
 
 ##7. Controle de acesso a Bancos de Dados. 
