@@ -410,6 +410,12 @@ Por que normalizar as tabelas de um banco de dados?
 
 ### Formas Normais
 
+Forma Normal | Teste | Solução (normalização)
+------------ | ------------- | ------------- 
+Primeira (1FN) | Relação não deve ter atributos multivalorados ou relações aninhadas | Formar novas relações para cada atributo multivalorado ou relação aninhada
+Segunda (2FN) | Para relações em que a chave primária contém múltiplos atributos, nenhum atributo não chave deverá ser funcionalmente dependente de uma parte da chave primária | Decompor e montar uma nova relação para cada chave parcial com seu(s) atributo(s) dependente(s). Certificar-se de manter uma relação com a chave primária original e quaisquer atributos que sejam total e funcionalmente dependentes dela.
+Terceira (3FN) | A relação não deve ter um atributo não chave determinado funcionalmente por outro atributo não chave (ou por um conjunto de atributos não chave). Ou seja, não deve haver dependência transitiva de um atributo não chave sobre a chave primária | Decompor e montar uma relação que inclua o(s) atributo(s) não chave quem determina(m) funcionalmente outro(s) atributo(s) não chave
+
 ####Primeira Forma Normal (1FN)
 Afirma que o domínio de um atributo deve incluir apenas valores atômicos (simples, indivisíveis) e que o valor de qualquer atributo em uma tupla deve ser um único valor do domínio desse atributo. 
 
@@ -425,12 +431,6 @@ Uma relação está na Terceira Forma Normal se ela está na Segunda Forma Norma
 
 Em resumo: não deve existir dependência transitiva.
 
-Forma Normal | Teste | Solução (normalização)
------------- | ------------- | ------------- 
-Primeira (1FN) | Relação não deve ter atributos multivalorados ou relações aninhadas | Formar novas relações para cada atributo multivalorado ou relação aninhada
-Segunda (2FN) | Para relações em que a chave primária contém múltiplos atributos, nenhum atributo não chave deverá ser funcionalmente dependente de uma parte da chave primária | Decompor e montar uma nova relação para cada chave parcial com seu(s) atributo(s) dependente(s). Certificar-se de manter uma relação com a chave primária original e quaisquer atributos que sejam total e funcionalmente dependentes dela.
-Terceira (3FN) | A relação não deve ter um atributo não chave determinado funcionalmente por outro atributo não chave (ou por um conjunto de atributos não chave). Ou seja, não deve haver dependência transitiva de um atributo não chave sobre a chave primária | Decompor e montar uma relação que inclua o(s) atributo(s) não chave quem determina(m) funcionalmente outro(s) atributo(s) não chave
-
 ####Forma Normal de Boyce-Codd (FBNC)
 A **Forma Normal Boyce-Codd (FBNC)** foi proposta como uma forma mais simples da 3FN mas descobriu-se que ela era mais rigorosa. Ou seja, cada relação em FBNC também está na 3FN. Porém, uma relação na 3FN não necessariamente está na FBNC.
 
@@ -444,7 +444,7 @@ Um esquema de relação R está na 4FN com relação a um conjunto de dependênc
 
 ####Quinta Forma Normal (5FN)
 Ocorre quando há uma multi-dependência cíclica entre pelo menos 3 conjuntos de atributos da chave da relação. É importante pois a decomposição de uma relação em um conjunto de relações (devido principalmente as necessidades de normalização), quando envolve multi-dependências cíclicas implicam na perda de informações devido à dependência de junção.
-
+Só ocorre em relações que possuem pelo menos três atributos como parte da chave primária. Encontra a dependência de junção que permite decompor a relação sem perdas.
 
 ##16. Replicação de banco de dados; performance e tuning: índices e otimização de acesso, otimização de código SQL ANSI, uso do join, union, exists e subconsultas, desempenho e detecção de problemas. 
 
