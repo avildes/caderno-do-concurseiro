@@ -113,7 +113,7 @@ RETURNS <tipo de retorno>
 Em geral, cada parâmetro deve ter um **tipo de parâmetro**, o qual é um dos tipos de dados da SQL. Cada parâmetro também deve ter um **modo de parâmetro**, que é um dentre IN, OUT, ou INOUT. Estes correspondem a parâmetros cujos valores são apenas de entrada, apenas de saída (retornados) ou de entrada e saída, respectivamente.
 
 > CESPE: Em PL/SQL, parâmetros cujo tipo não esteja explicitamente declarado são considerados como do tipo IN. **(CORRETO)**
- Obs: apesar de a CESPE marcar como correto pois o comportamento existe, o que deixou de ser especificado foi o modo e não o tipo (tipo seria VARCHAR(2), INT, etc.).
+ Obs: apesar de a CESPE marcar como correto pois o comportamento existe, o que deixou de ser especificado foi o modo e não o tipo (tipo seria VARCHAR(2), INTEGER, BOOLEAN, etc.).
 
 
 
