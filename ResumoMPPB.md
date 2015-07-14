@@ -401,7 +401,38 @@ Fonte:Teleco,UFSC
 
 ##15. Normalização
 
-- Objetivos, níveis de normalização
+###Objetivos da Normalização
+
+Por que normalizar as tabelas de um banco de dados?
+* Diminuir o espaço de armazenamento dos dados
+* Aumentar a eficiência de consultas e atualizações
+* Remover possíveis anomalias de atualização
+
+### Formas Normais
+
+####Primeira Forma Normal (1FN)
+Afirma que o domínio de um atributo deve incluir apenas valores atômicos (simples, indivisíveis) e que o valor de qualquer atributo em uma tupla deve ser um único valor do domínio desse atributo. 
+
+Em resumo: remover atributos multivalorados, atributos compostos e suas combinações.
+
+####Segunda Forma Normal (2FN)
+Um esquema de relação R está na Segunda Forma Normal se, e somente se, está na Primeira Forma Normal e se cada atributo não principal A em R for total e funcionalmente dependente da chave primária em R.
+
+Em resumo: remover dependencias parciais.
+
+####Terceira Forma Normal (3FN)
+
+
+Forma Normal | Teste | Solução (normalização)
+------------ | ------------- | ------------- 
+Primeira (1FN)| Relação não deve ter atributos multivalorados ou relações aninhadas | Formar novas relações para cada atributo multivalorado ou relação aninhada
+Segunda (2FN)| Para relações em que a chave primária contém múltiplos atributos, nenhum atributo não chave deverá ser funcionalmente dependente de uma parte da chave primária | Decompor e montar uma nova relação para cada chave parcial com seu(s) atributo(s) dependente(s). Certificar-se de manter uma relação com a chave primária original e quaisquer atributos que sejam total e funcionalmente dependentes dela.
+Terceira (3FN)| A relação não deve ter um atributo não chave determinado funcionalmente por outro atributo não chave (ou por um conjunto de atributos não chave). Ou seja, não deve haver dependência transitiva de um atributo não chave sobre a chave primária | Decompor e montar uma relação que inclua o(s) atributo(s) não chave quem determina(m) funcionalmente outro(s) atributo(s) não chave
+
+
+* Forma Normal de Boyce-Codd
+
+* Quarta Forma Normal (4FN) 
 
 ##16. Replicação de banco de dados; performance e tuning: índices e otimização de acesso, otimização de código SQL ANSI, uso do join, union, exists e subconsultas, desempenho e detecção de problemas. 
 
