@@ -408,6 +408,25 @@ Por que normalizar as tabelas de um banco de dados?
 * Aumentar a eficiência de consultas e atualizações
 * Remover possíveis anomalias de atualização
 
+
+```
+ Um processo de normalização aplicado com rigor nas tabelas relacionais de um modelo de dados poderá implicar em
+a)
+menor segurança nos acessos aos sistemas.
+**b)**
+menor desempenho em transações de consultas.
+c)
+maior redundância de dados nos arquivos.
+d)
+maior performance nas atualizações dos bancos.
+e)
+maior simplificação na administração das tabelas.
+
+Explicação: ?
+
+```
+
+
 ### Formas Normais
 
 Forma Normal | Teste | Solução (normalização)
