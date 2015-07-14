@@ -120,8 +120,6 @@ Outro comando importante em SQL é o CREATE TRIGGER. Em muitos casos, é conveni
 
 * Trigger em nível de comando: É executado apenas uma vez.
 
-- 
-
 ##7. Controle de acesso a Bancos de Dados. 
 
 - 
