@@ -86,6 +86,27 @@ etc.
 
 ##6. Conceitos de Stored Procedure e Triggers. 
 
+###Stored Procedure
+
+Os procedimentos armazenados (ou Stored Procedures) são procedimentos ou funções que são armazenados e executados pelo SGBD no servidor de bancos. O termo usado no padrão SQL para os procedimentos armazenados é **módulos armazenados persistentes** por que esses programas são armazenados persistentemente pelo SGBD, de modo semelhante aos dados persistentes armazenados pelo SGBD.
+
+Os procedimentos armazenados são úteis nas seguintes circunstâncias:
+* Se um programa de banco de dados é necessário por várias aplicações, ele pode ser armazenado no servidor e invocado por qualquer um dos programas de aplicação. Isso reduz a duplicação de esforço e melhora a modularidade do software.
+* A execução de um programa no servidor pode reduzir a transferência de dados e o custo de comunicação entre o cliente e o servidor em certas situações.
+* Esses procedimentos podem melhorar o poder de modelagem fornecido pelas visões ao permitir que tipos mais complexos de dados derivados estejam disponíveis aos usuários do banco de dados. Além disso, eles podem ser usados para verificar restrições complexas que estão além do poder de especificação de asserções e triggers.
+
+O formato geral da declaração de procedimentos armazenados é a seguinte: 
+```
+CREATE PROCEDURE <nome do procedimento>
+(<parametros>)
+<declaracoes de local>
+<corpo do procedimento>;
+```
+Os parâmetros e declarações locais são opcionais e especificados apenas se necessário. Para declarar uma função, um tipo de retorno é necessário, de modo que o formato da declaração é:
+
+abc
+### Triggers
+
 - 
 
 ##7. Controle de acesso a Bancos de Dados. 
