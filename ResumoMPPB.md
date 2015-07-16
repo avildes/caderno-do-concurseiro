@@ -476,6 +476,54 @@ Só ocorre em relações que possuem pelo menos três atributos como parte da ch
 
 ##19. Fundamentos da ITIL v3.
 
+O Ciclo de Vida do ITIL v3 é composto de cinco livros. São eles, a Estratégia do Serviço, que fica no núcleo do ciclo, o Desenho do Serviço, a Transição do Serviço e a Operação do Serviço em volta do núcleo e o quinto e último livro, a Melhoria Contínua do Serviço que permeia todo o ciclo de vida.
+
+Principais mudanças em relação à v2:
+* Abordagem baseada no ciclo de vida dos serviços;
+* Visão integrada de TI, negócios e fornecedores.
+
+Para melhor entendimento, pode-se dividir o cicle de vida em três grupos de conceitos:
+
+Análise de requisitos e definição inicial | Estratégia do Serviço e Desenho de Serviço
+Migração para o ambiente produtivo/operacional | Transição de Serviço
+Operação e melhoria em produção | Operação de Serviço e Melhoria Contínua do Serviço
+
+###Estratégia
+
+Identifica requisitos e necessidades de negócio, que são acordados e documentados em um SLP (Service Level Package).
+
+###Desenho
+A partir do requisito concebe a solução, em todos os seus aspectos, que são documentados em um SDP (Service Design Package).
+
+###Transição
+Implementação em produção. Tal implementação é testada e acompanhada, bem como validada. O SKMS(Service Knowledge Management System) é atualizado com as informações do ambiente de produção.
+
+###Operação
+O serviço é mantido em operação/funcionamento de acordo com os níveis de serviço (SLAs) estabelecidos para gerar os resultados esperados.
+
+###Melhoria Contínua do Serviço
+Identifica oportunidades de melhoria no serviço. É produto desse trabalho o plano de melhoria de serviços (SIP - Service Improvement Plan)
+
+###Definições aleatórias cobradas pela FCC
+
+**Incidente:**
+Uma interrupção não planejada de um serviço de TI ou uma redução da qualidade de um serviço de TI. Falha de um item de configuração que ainda não tenha impactado um serviço de TI é também um incidente.
+
+
+
+
+Diferença entre erro e incidente:
+
+Um operador de um Centro de Processamento de Dados executou um programa de computador antes do momento previsto, criando defeitos nos relatórios impressos gerados por tal programa de aplicação. Segundo os princípios da ITIL V.3, o operador cometeu ou criou
+ a um erro.
+ b um incidente.
+ c um problema.
+ d uma configuração.
+ e uma mudança.
+
+
+procurar a definição de problemas e eventos.
+
 ##20. Fundamentos de COBIT. 5.
 
 
