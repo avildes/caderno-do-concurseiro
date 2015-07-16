@@ -518,11 +518,16 @@ Uma falha de desenho ou uma disfunção que causa uma falha em um ou mais itens 
 
 >Diferença entre erro e incidente:
 >
->Um operador de um Centro de Processamento de Dados executou um >programa de computador antes do momento previsto, criando defeitos nos >relatórios impressos gerados por tal programa de aplicação. Segundo os >princípios da ITIL V.3, o operador cometeu ou criou
+>Um operador de um Centro de Processamento de Dados executou um programa de computador antes do momento previsto, criando defeitos nos relatórios impressos gerados por tal programa de aplicação. Segundo os princípios da ITIL V.3, o operador cometeu ou criou
+
 > **a)** um erro.
+
 > b) um incidente.
+
 > c) um problema.
+
 > d) uma configuração.
+
 > e) uma mudança.
 
 **Requisição de serviço:**
@@ -538,6 +543,7 @@ ocorreu. É produzido e tratado por ferramentas de gerenciamento de sistemas e p
 **Incidente:**
 Interrupção inesperada ou redução na qualidade de um serviço de TI. Pode
 ser uma falha de um IC que ainda não tenha impactado o serviço.
+
 **Problema:**
 É a causa de um ou mais incidentes. O processo de Gerenciamento de
 Problema é responsável pela investigação da causa raiz.
@@ -556,7 +562,7 @@ Conhecimento de Serviço. Esta base pode ser disponibilizada para que os usuári
 A avaliação de impacto e da urgência de incidentes, problemas e mudanças é importante para determinar suas prioridades. A prioridade determina a ordem de execução. Determiná-la baseado na combinação entre impacto x urgência é uma boa prática. O impacto considera quantas pessoas, clientes ou quanto do negócio será afetado, enquanto a urgência determina a velocidade em que
 o incidente precisa ser resolvido.
 
-Processos do ITIL v3 em resumo:
+###Processos do ITIL v3 em resumo:
 
 **Estratégia do Serviço**
 * Gerenciamento de Estratégia para Serviços de TI
