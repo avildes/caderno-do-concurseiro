@@ -601,4 +601,22 @@ o incidente precisa ser resolvido.
 **Melhoria Contínua**
 * Processo de Melhoria em Sete Etapas
 
+```
+**Sete Etapas**
+1 - Definir o que **deve** ser medido
+
+2 - Definir o que **pode** ser medido
+
+3 - Reunir os dados
+
+4 - Formatar os dados
+
+5 - Analisar os dados
+
+6 - Mostrar e usar a informação
+
+7 - Executar ações corretivas
+
+```
+
 ##20. Fundamentos de COBIT. 5.
