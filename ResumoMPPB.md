@@ -562,6 +562,16 @@ Conhecimento de Serviço. Esta base pode ser disponibilizada para que os usuári
 A avaliação de impacto e da urgência de incidentes, problemas e mudanças é importante para determinar suas prioridades. A prioridade determina a ordem de execução. Determiná-la baseado na combinação entre impacto x urgência é uma boa prática. O impacto considera quantas pessoas, clientes ou quanto do negócio será afetado, enquanto a urgência determina a velocidade em que
 o incidente precisa ser resolvido.
 
+**Matriz RACI (Responsible/Accountable/Consulted/Informed):**
+
+O ITIL v3 recomenda o uso da matriz RACI para mapear os papéis definidos neste processo e atividades endereçadas à equipe. Em outras palavras define papéis e responsabilidades de um perfil (que pode ser uma pessoa, mas também um grupo com responsabilidades semelhantes).
+
+O **dono do processo** é responsável pelos resultados do processo e por garantir que todas as atividades definidas para o processo tenham responsáveis.
+
+O **gerente do processo** é o responsável pela operacionalização do processo, garantindo o cumprimento de seus objetivos. É responsável pela estrutura e realização do processo e reporta-se ao dono do processo.
+
+Os **praticantes do processo** são responsáveis por atividades definidas, que são reportadas ao gerente do processo.
+
 ###Processos do ITIL v3 em resumo:
 
 **Estratégia do Serviço**
