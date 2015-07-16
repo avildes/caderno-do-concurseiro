@@ -475,10 +475,10 @@ Só ocorre em relações que possuem pelo menos três atributos como parte da ch
 ##18. Visão do PMBOK 5a edição.
 
 ##19. Fundamentos da ITIL v3.
----
+
 ###Links 
 http://fagury.com.br/sys/wp-content/uploads/2010/09/apostila-itil-v3-3.pdf
----
+
 ###Ciclo de vida
 O Ciclo de Vida do ITIL v3 é composto de cinco livros. São eles, a Estratégia do Serviço, que fica no núcleo do ciclo, o Desenho do Serviço, a Transição do Serviço e a Operação do Serviço em volta do núcleo e o quinto e último livro, a Melhoria Contínua do Serviço que permeia todo o ciclo de vida.
 
@@ -563,8 +563,9 @@ A avaliação de impacto e da urgência de incidentes, problemas e mudanças é 
 o incidente precisa ser resolvido.
 
 **Matriz RACI (Responsible/Accountable/Consulted/Informed):**
-
 O ITIL v3 recomenda o uso da matriz RACI para mapear os papéis definidos neste processo e atividades endereçadas à equipe. Em outras palavras define papéis e responsabilidades de um perfil (que pode ser uma pessoa, mas também um grupo com responsabilidades semelhantes).
+
+--
 
 O **dono do processo** é responsável pelos resultados do processo e por garantir que todas as atividades definidas para o processo tenham responsáveis.
 
