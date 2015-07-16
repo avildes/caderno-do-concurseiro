@@ -475,7 +475,11 @@ Só ocorre em relações que possuem pelo menos três atributos como parte da ch
 ##18. Visão do PMBOK 5a edição.
 
 ##19. Fundamentos da ITIL v3.
-
+---
+###Links 
+http://fagury.com.br/sys/wp-content/uploads/2010/09/apostila-itil-v3-3.pdf
+---
+###Ciclo de vida
 O Ciclo de Vida do ITIL v3 é composto de cinco livros. São eles, a Estratégia do Serviço, que fica no núcleo do ciclo, o Desenho do Serviço, a Transição do Serviço e a Operação do Serviço em volta do núcleo e o quinto e último livro, a Melhoria Contínua do Serviço que permeia todo o ciclo de vida.
 
 Principais mudanças em relação à v2:
@@ -504,27 +508,84 @@ O serviço é mantido em operação/funcionamento de acordo com os níveis de se
 ###Melhoria Contínua do Serviço
 Identifica oportunidades de melhoria no serviço. É produto desse trabalho o plano de melhoria de serviços (SIP - Service Improvement Plan)
 
-###Definições aleatórias cobradas pela FCC
+###Conceitos Básicos ou Definições aleatórias cobradas pela FCC
 
 **Incidente:**
 Uma interrupção não planejada de um serviço de TI ou uma redução da qualidade de um serviço de TI. Falha de um item de configuração que ainda não tenha impactado um serviço de TI é também um incidente.
 
+**Erro:**
+Uma falha de desenho ou uma disfunção que causa uma falha em um ou mais itens de configuração ou serviços de TI. Um erro cometido por uma pessoa ou um processo falho que impacta um item de configuração ou serviço de TI é também um erro.
 
+>Diferença entre erro e incidente:
+>
+>Um operador de um Centro de Processamento de Dados executou um >programa de computador antes do momento previsto, criando defeitos nos >relatórios impressos gerados por tal programa de aplicação. Segundo os >princípios da ITIL V.3, o operador cometeu ou criou
+> **a)** um erro.
+> b) um incidente.
+> c) um problema.
+> d) uma configuração.
+> e) uma mudança.
 
+**Requisição de serviço:**
+É um pedido de informação para uma mudança ou para acessar um serviço de TI. É geralmente atendida pela Central de Serviço e não requer a abertura de uma requisição de mudança.
+**Evento:**
+É um status report criado por um serviço, IC ou ferramenta de monitoramento causado pela alteração no desempenho da infraestrutura ou de entrega de serviço. Geralmente requer que incidentes sejam registrados e uma ação seja tomada pelo pessoal de operações de TI. É uma mudança de estado significativa para um Item de Configuração ou serviço.
+**Alerta:**
+É um aviso ou advertência sobre uma meta (threshold), mudança ou falha que
+ocorreu. É produzido e tratado por ferramentas de gerenciamento de sistemas e pelo processo de gerenciamento de eventos.
+**Incidente:**
+Interrupção inesperada ou redução na qualidade de um serviço de TI. Pode
+ser uma falha de um IC que ainda não tenha impactado o serviço.
+**Problema:**
+É a causa de um ou mais incidentes. O processo de Gerenciamento de
+Problema é responsável pela investigação da causa raiz.
+**Solução de contorno (workaround):**
+Resolve uma dificuldade ou questão de forma temporária, paliativa.
+**Erro conhecido (known error):**
+É um problema que tem a causa raiz documentada e uma solução de contorno identificada. Erros conhecidos são criados no ciclo de vida do processo de Gerenciamento de Problema.
+**Base de Erros Conhecidos:**
+Registro centralizado de erros conhecidos. Tais registros são utilizados pelo processo de Gerenciamento de Incidente para resolver incidentes. Esta base, por sua vez, faz parte do SKMS / SGCS – Sistema de Gerenciamento do
+Conhecimento de Serviço. Esta base pode ser disponibilizada para que os usuários façam o próprio atendimento.
+**Impacto, urgência e prioridade:** 
+A avaliação de impacto e da urgência de incidentes, problemas e mudanças é importante para determinar suas prioridades. A prioridade determina a ordem de execução. Determiná-la baseado na combinação entre impacto x urgência é uma boa prática. O impacto considera quantas pessoas, clientes ou quanto do negócio será afetado, enquanto a urgência determina a velocidade em que
+o incidente precisa ser resolvido.
 
-Diferença entre erro e incidente:
+Processos do ITIL v3 em resumo:
 
-Um operador de um Centro de Processamento de Dados executou um programa de computador antes do momento previsto, criando defeitos nos relatórios impressos gerados por tal programa de aplicação. Segundo os princípios da ITIL V.3, o operador cometeu ou criou
- a um erro.
- b um incidente.
- c um problema.
- d uma configuração.
- e uma mudança.
+**Estratégia do Serviço**
+* Gerenciamento de Estratégia para Serviços de TI
+* Gerenciamento de Demanda
+* Gerenciamento do Portfólio de Serviços
+* Gerenciamento Financeiro para Serviços de TI
+* Gestão do Relacionamento com o Negócio
 
+**Desenho do Serviço**
+* Coordenação do Desenho
+* Gerenciamento do catálogo de Serviços
+* Gerenciamento de nível de Serviço
+* Gerenciamento de Fornecedores
+* Gerenciamento de Disponibilidade
+* Gerenciamento de Capacidade
+* Gerenciamento de Continuidade de Serviços de TI
+* Gerenciamento de Segurança da Informação
 
-procurar a definição de problemas e eventos.
+**Transição do Serviço**
+* Planejamento e Suporte à Transição
+* Gerenciamento de Configuração e Ativos de Serviço
+* Gerenciamento de Mudanças
+* Gerenciamento de Liberação e Implantação
+* Gerenciamento do Conhecimento
+* Avaliação de Mudanças
+* Validação e Teste de Serviço
+* Gerenciamento de Conhecimento
+
+**Operação de Serviço**
+* Gerenciamento de Eventos
+* Gerenciamento de Incidentes
+* Gerenciamento de Problemas
+* Gerenciamento de Requisição
+* Gerenciamento de Acesso
+
+**Melhoria Contínua**
+* Processo de Melhoria em Sete Etapas
 
 ##20. Fundamentos de COBIT. 5.
-
-
-
