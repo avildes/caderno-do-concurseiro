@@ -527,24 +527,31 @@ Uma falha de desenho ou uma disfunção que causa uma falha em um ou mais itens 
 
 **Requisição de serviço:**
 É um pedido de informação para uma mudança ou para acessar um serviço de TI. É geralmente atendida pela Central de Serviço e não requer a abertura de uma requisição de mudança.
+
 **Evento:**
 É um status report criado por um serviço, IC ou ferramenta de monitoramento causado pela alteração no desempenho da infraestrutura ou de entrega de serviço. Geralmente requer que incidentes sejam registrados e uma ação seja tomada pelo pessoal de operações de TI. É uma mudança de estado significativa para um Item de Configuração ou serviço.
+
 **Alerta:**
 É um aviso ou advertência sobre uma meta (threshold), mudança ou falha que
 ocorreu. É produzido e tratado por ferramentas de gerenciamento de sistemas e pelo processo de gerenciamento de eventos.
+
 **Incidente:**
 Interrupção inesperada ou redução na qualidade de um serviço de TI. Pode
 ser uma falha de um IC que ainda não tenha impactado o serviço.
 **Problema:**
 É a causa de um ou mais incidentes. O processo de Gerenciamento de
 Problema é responsável pela investigação da causa raiz.
+
 **Solução de contorno (workaround):**
 Resolve uma dificuldade ou questão de forma temporária, paliativa.
+
 **Erro conhecido (known error):**
 É um problema que tem a causa raiz documentada e uma solução de contorno identificada. Erros conhecidos são criados no ciclo de vida do processo de Gerenciamento de Problema.
+
 **Base de Erros Conhecidos:**
 Registro centralizado de erros conhecidos. Tais registros são utilizados pelo processo de Gerenciamento de Incidente para resolver incidentes. Esta base, por sua vez, faz parte do SKMS / SGCS – Sistema de Gerenciamento do
 Conhecimento de Serviço. Esta base pode ser disponibilizada para que os usuários façam o próprio atendimento.
+
 **Impacto, urgência e prioridade:** 
 A avaliação de impacto e da urgência de incidentes, problemas e mudanças é importante para determinar suas prioridades. A prioridade determina a ordem de execução. Determiná-la baseado na combinação entre impacto x urgência é uma boa prática. O impacto considera quantas pessoas, clientes ou quanto do negócio será afetado, enquanto a urgência determina a velocidade em que
 o incidente precisa ser resolvido.
