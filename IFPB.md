@@ -40,28 +40,36 @@ Disciplinar (art. 116 ao 142 da Lei nº 8.112/90);
 
 
 
-###INFORMÁTICA – Para cargos de Assistente de Tecnologia da Informação, Técnico em Tecnologia da
-Informação e Analista de Tecnologia da Informação
+###INFORMÁTICA – Para o cargo Analista de Tecnologia da Informação
+
 Noções de arquitetura de computadores: Processador; Tipos de memória; Dispositivos de entrada e saída;
-Sistema de numeração binário, decimal, octal e hexagonal. Noções de Softwares: Tipos de software. Noções de
-Sistemas Operacionais: Sistema Operacional Microsoft Windows 7 e Windows 8; Sistema Operacional Linux.
+Sistema de numeração binário, decimal, octal e hexagonal.
+
+Noções de Softwares: Tipos de software. 
+
+Noções de Sistemas Operacionais: Sistema Operacional Microsoft Windows 7 e Windows 8; Sistema Operacional Linux.
 Edição de textos, planilhas eletrônicas e apresentações: Ambientes Microsoft Office e LibreOffice; Redes de
 computadores: Conceitos básicos, ferramentas, aplicativos e procedimentos de Internet e intranet; Programas
 de navegação Web (Microsoft Internet Explorer, Mozilla Firefox e Google Chrome); Programas de correio
 eletrônico (Outlook Express e Mozilla Thunderbird); Conceitos de Computação na Nuvem (cloudcomputing);
-Arquitetura de aplicações em rede; Endereçamento IP. Noções de Segurança da Informação: Procedimentos
+Arquitetura de aplicações em rede; Endereçamento IP. 
+
+Noções de Segurança da Informação: Procedimentos
 de segurança; Noções de vírus, worms e pragas virtuais; Aplicativos para segurança (antivírus, firewall e antispyware);
 Procedimentos de backup; Armazenamento de dados na nuvem (cloudstorage).
 
 ##Específicos:
 
-###Governança de TI: Planejamento estratégico de TI; Políticas e procedimentos;
+###Governança de TI: 
+
+Planejamento estratégico de TI; Políticas e procedimentos;
 Instrução Normativa nº 04/2014 - MP/SLTI; Responsabilidades e papéis de área de TI;
 Gerenciamento de Serviços de TI ITIL v3: introdução ao gerenciamento de serviços de
 TI, operação de serviço (processos e funções). 
 
-###Desenvolvimento: Lógica de
-programação: tipos de dados, variáveis, operações, expressões, controle de fluxo,
+###Desenvolvimento: 
+
+Lógica de programação: tipos de dados, variáveis, operações, expressões, controle de fluxo,
 modularização e recursividade; Estrutura de dados; Programação orientada a objetos:
 abstração, definição de classes, métodos e atributos, herança, polimorfismo,
 encapsulamento e reutilização de componentes; Linguagens de programação: Python e
@@ -76,10 +84,12 @@ de projetos; Sistemas de controle de versão; Servidores web e de aplicação; E
 de software: análise e projeto, implementação, testes, homologação e gestão de
 configuração; Documentação de sistemas. 
 
-###Sistema operacionais: instalação,
-configuração e noções básicas de sistemas Unix e Linux. 
+###Sistema operacionais: 
+
+instalação, configuração e noções básicas de sistemas Unix e Linux. 
 
 ###Redes de Computadores:
+
 Conceitos de redes de computadores; Noções de Cabeamento Estruturado; Modelo OSI;
 Arquitetura TCP/IP; Arquitetura de aplicações; Serviços (WEB, E-mail, DNS);
 Protocolos TCP e UDP; Protocolos IPv4 e IPv6; Endereçamento IP; Protocolos de
