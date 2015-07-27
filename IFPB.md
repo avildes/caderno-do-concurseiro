@@ -1,8 +1,11 @@
 # Distribuição das questões
 
 a) Língua Portuguesa – 15 (quinze) questões;
+
 b) Legislação do Serviço/Servidor Público Federal – 10 (dez) questões;
+
 c) Noções de Informática – 05 (cinco) questões; e
+
 d) Conhecimentos Específicos – 20 (vinte) questões
 
 
