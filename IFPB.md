@@ -40,7 +40,7 @@ Disciplinar (art. 116 ao 142 da Lei nº 8.112/90);
 
 
 
-###INFORMÁTICA – Para o cargo Analista de Tecnologia da Informação
+###NOÇÕES DE INFORMÁTICA – Para o cargo Analista de Tecnologia da Informação
 
 Noções de arquitetura de computadores: Processador; Tipos de memória; Dispositivos de entrada e saída;
 Sistema de numeração binário, decimal, octal e hexagonal.
