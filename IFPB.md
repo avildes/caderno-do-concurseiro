@@ -101,6 +101,14 @@ O tipo ou membro só pode ser acessado por código da mesma classe ou struct.
 O tipo ou membro só pode ser acessado por código da mesma classe ou struct, ou ainda, em uma classe derivada.
 ```
 
+*Static:*
+´´´
+O modificador de acesso 'static' em uma classe quer dizer que a classe não pode ser instaciada, e que todo os seus membros são estáticos. Um membro estático possui uma única versão independente de quantas instâncias do tipo ao qual ele pertence sejam criadas.
+
+Uma classe estática é basicamente o mesmo que uma classe não-estática, há apenas uma diferença: uma classe estática não pode ser instanciada externamente. Em outras palavras, você não pode usar a palavra chave 'new' para criar uma variável do tipo da classe. Como não há nenhuma variável instanciada, você pode acessar os membros de uma classe estática usando o próprio nome da classe.
+
+No entanto, é possível existir um construtor estático. Qualquer classe pode possuir um desses, incluindo classes estáticas. Eles não podem ser chamados diretamente e não podem possuir parâmetros (além dos parâmetros definidos na própria classe). Um construtor estático é chamado automaticamente para inicializar a classe antes da criação da primeira instância ou antes que qualquer membro estático seja referenciado.
+´´´
 ###Sistema operacionais: 
 
 instalação, configuração e noções básicas de sistemas Unix e Linux. 
