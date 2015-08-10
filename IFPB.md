@@ -84,6 +84,23 @@ de projetos; Sistemas de controle de versão; Servidores web e de aplicação; E
 de software: análise e projeto, implementação, testes, homologação e gestão de
 configuração; Documentação de sistemas. 
 
+####Modificadores de Acesso
+
+*Public:* 
+```
+O tipo ou membro pode ser acessado por qualquer outro código do mesmo projeto ou de um projeto que referencie este.
+```
+
+*Private:* 
+```
+O tipo ou membro só pode ser acessado por código da mesma classe ou struct.
+```
+
+*Protected:* 
+```
+O tipo ou membro só pode ser acessado por código da mesma classe ou struct, ou ainda, em uma classe derivada.
+```
+
 ###Sistema operacionais: 
 
 instalação, configuração e noções básicas de sistemas Unix e Linux. 
