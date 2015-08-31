@@ -98,4 +98,48 @@ Exemplos:
  
 ##Sílabas
  
+###Classificação
 
+1. **Simples** -> quando apresentam uma só vogal. Ex.: dor, sol.
+2. **Compostas** -> quando apresentam mais de uma vogal. Ex.: caule, pau.
+3. **Complexas** -> quando apresentam mais de uma consoante. Ex.: triste, flor.
+4. **Incomplexas** -> qunado apresentam apenas uma consoante. Ex.: vá, cá.
+5. **Abertas** -> quando terminam por vogal. Ex.: ca-na-pé, me-ni-na.
+6. **Fechadas ou travadas** -> quando terminam por consoante. Ex.: tu-tor, al-mas.
+
+###Divisão Silábica
+
+####Regras:
+
+**1. Não se separam as vogais dos ditongos - crescentes e decrescentes - nem as dos tritongos.**
+**2. No interior do vocábulo, sempre se conserva na sílaba anterior a consoante não seguida de vogal.**
+**3. Não se separam os encontros consonantais iniciais de sílabas nem os dígrafos "ch, lh, nh".**
+**4. Não se separam os grupos "GU" e "QU" da vogal que os segue, quer esta esteja ou não acompanhada de consoante.**
+**5. Não se separa a consoante inicial não seguida de vogal, ou seja, a consoante inicial não seguida de vogal permanece na sílaba em que se encontra.**
+**6. Separam-se os dígrafos "RR, SS, SC, SÇ, XS" no interior dos vocábulos, ficando uma consoante numa sílaba e a outra na sílaba imediata.**
+**7. O "S" dos prefixos "bis-, cis-, des-, dis-, trans-" não se separa quando a sílaba seguinte começa por consoante. Caso a sílaba seguinte comece por vogal, o "S" se desprenderá do prefixo e formará sílaba com esta vogal.**
+**8. As vogais idênticas e as letras "CC, CÇ" separam-se, ficando uma numa sílaba e a outra na sílaba consequente.**
+**9. Separam-se as vogais que formam hiatos.**
+
+Separar:
+
+* Subestimar
+* Simetria
+* Esfiapada
+* Bainhas
+* Cisandino
+* Espécie
+* Ateu
+* Sublingual
+* Bisneto
+* Desesperar
+* Gnosiologia
+* Transatlântico
+* Disenteria
+* Cônsio
+* Dracma
+* Meio
+* Jóias
+* Étnico 
+* Occipital
+* Brotoeja
