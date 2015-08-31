@@ -65,3 +65,36 @@ Há também em nossa língua os chamados dígrafos vocálicos, isto é, os que são for
 
 l**im**po, c**am**po, t**am**bém, s**an**to, m**en**tira, t**um**ba, l**on**ge
 
+##Contagem de letras e fonemas em um vocábulo
+
+É importante não confundir letra com fonema (som) - são coisas bem diversas. Em princípio, as letras existem para exprimir os sons. É, como já dissemos, uma representação gráfica do som. Logo, é preciso ter cuidado ao se contar as letras e os fonemas (sons) de um vocábulo, pois é preciso ficar muito atento, notadamente com os os dígrafos e com os encontros consonantais, para se evitarem erros.
+
+Exemplos:
+
+1. camisas:
+ * 7 letras
+ * 7 fonemas
+ 
+2. criança:
+ * 7 letras
+ * 6 fonemas (em "an" temos um dígrafo)
+ 
+3. tampinha:
+ * 8 letras
+ * 6 fonemas (temos dois dígrafos)
+
+4. tóxico:
+ * 6 letras
+ * 7 fonemas (a letra "x" representa o fonema /cs/)
+ 
+5. constituinte:
+ * 12 letras
+ * 10 fonemas (existem dois dígrafos vocálicos "on" e "in")
+ 
+6. menino:
+ * 6 letras
+ * 6 fonemas
+ 
+##Sílabas
+ 
+
