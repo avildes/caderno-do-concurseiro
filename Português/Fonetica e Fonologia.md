@@ -29,6 +29,7 @@ Em certos casos, os fonemas "i, u", representando os fonemas /y/ e /w/ respectiv
 É a combinação silábica em que, soando em conjunto com a vogal, existem duas semivogais. Teremos, então, "semivogal + vogal + semivogal" numa mesma sílaba. Exemplos:
 
 > ORAIS -> iguais, Paraguai, Uruguai, minguou, apaziguou, quão
+
 > NASAIS -> saguões, enxáguem, dilinquem, mínguam
 
 ##Encontros Consonantais
