@@ -121,7 +121,7 @@ Art 58
 
 #Processo Legislativo
 
-Art. 59 O processo legislativo compreende a elaboração de:
+Art. 59. O processo legislativo compreende a elaboração de:
 * I - emendas à Constituição;
 * II - leis complementares;
 * III - leis ordinárias;
@@ -134,14 +134,24 @@ Parágrafo Único. Lei complementar disporá sobre a elaboração, redação, alteração
 
 ##Da Emenda à Constituição
 
-Art. 60 A Constituição poderá ser emendada mediante **proposta**:
+Art. 60. A Constituição poderá ser emendada mediante **proposta**:
 * I - de um terço, no mínimo, dos membros da Câmara dos Deputados ou do Senado Federal;
 * II - do Presidente da República;
 * III - de mais da metade das Assembléias Legislativas das unidades da Federação, manifestando-se, cada uma delas, pela maioria relativa de seus membros;
 
 § 1º A Constituição não poderá ser emendada na vigência de intervenção federal, de estado de defesa ou de estado de sítio.
+
 § 2º A proposta será **discutida e votada** em cada Casa do Congresso Nacional, em dois turnos, considerando-se aprovada se obtiver, em ambos, três quintos dos votos dos respectivos membros;
-§ 3º A emenda à Constituição será <a href="http://www.direitonet.com.br/dicionario/exibir/911/Promulgada" title="Diz-se que a lei foi promulgada quando o chefe do executivo atesta, oficialmente, sua existência. É por meio dela que se confere força executória à lei.">promulgada</a> pelas Mesas da Câmara dos Deputados e do Senado Federal, com o respectivo número de ordem.
+
+§ 3º A emenda à Constituição será <a href="http://www.direitonet.com.br/dicionario/exibir/911/Promulgada" title="É por meio da promulgação que se confere força executória à norma.">promulgada</a> pelas Mesas da Câmara dos Deputados e do Senado Federal, com o respectivo número de ordem.
+
+§ 4º Não será objeto de deliberação a proposta de emenda tendente a abolir:
+* I - a forma federativa do Estado;
+* II - o voto direto, secreto, universal e periódico;
+* III - a separação dos Poderes;
+* IV - os direitos e garantias individuais;
+
+§ 5º A matéria constante de proposta de emenda rejeitada ou havida por prejudicada não pode ser objeto de nova proposta na mesma <a href="" title="A sessão legislativa ordinária é o período de atividade normal do Congresso a cada ano, de 2 de fevereiro a 17 de julho e de 1º de agosto a 22 de dezembro. Cada quatro sessões legislativas, a contar do ano seguinte ao das eleições parlamentares, compõem uma legislatura. Já a sessão legislativa extraordinária compreende o trabalho realizado durante o recesso (ver verbete) parlamentar, mediante convocação. Cada período de convocação constitui uma sessão legislativa extraordinária."> sessão legislativa</a>.
 
 ##Das leis
 
