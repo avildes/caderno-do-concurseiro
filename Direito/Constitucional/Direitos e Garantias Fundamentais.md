@@ -121,21 +121,81 @@ Art 58
 
 #Processo Legislativo
 
+Art. 59 O processo legislativo compreende a elaboração de:
+* I - emendas à Constituição;
+* II - leis complementares;
+* III - leis ordinárias;
+* IV - leis delegadas;
+* V - medidas provisórias;
+* VI - decretos legislativos;
+* VII - resoluções.
+
+Parágrafo Único. Lei complementar disporá sobre a elaboração, redação, alteração e consolidação das leis.
+
 ##Da Emenda à Constituição
+
+Art. 60 A Constituição poderá ser emendada mediante **proposta**:
+* I - de um terço, no mínimo, dos membros da Câmara dos Deputados ou do Senado Federal;
+* II - do Presidente da República;
+* III - de mais da metade das Assembléias Legislativas das unidades da Federação, manifestando-se, cada uma delas, pela maioria relativa de seus membros;
+
+§ 1º A Constituição não poderá ser emendada na vigência de intervenção federal, de estado de defesa ou de estado de sítio.
+§ 2º A proposta será **discutida e votada** em cada Casa do Congresso Nacional, em dois turnos, considerando-se aprovada se obtiver, em ambos, três quintos dos votos dos respectivos membros;
+§ 3º A emenda à Constituição será <a href="http://www.direitonet.com.br/dicionario/exibir/911/Promulgada" title="Diz-se que a lei foi promulgada quando o chefe do executivo atesta, oficialmente, sua existência. É por meio dela que se confere força executória à lei.">promulgada</a> pelas Mesas da Câmara dos Deputados e do Senado Federal, com o respectivo número de ordem.
 
 ##Das leis
 
+61
+62
+63
+64
+65
+66
+67
+68
+69
+
 ##Da Fiscalização contábil, financeira e orçamentária
 
+70
+71
+72
+73
+74
+75
 
 #Poder Executivo
 
 ##Do Presidente e do Vice-Presidente da República
 
+76
+77
+78
+79
+80
+81
+82
+83
+
 ##Das atribuições do Presidente da República
+
+84
 
 ##Da responsabilidade do Presidente da República
 
+85
+86
+
 ##Dos ministro de estado
 
+87
+88
+
 ##Do Conselho da República e do Conselho de Defesa Nacional
+
+###Conselho da República
+89
+90
+
+###Conselho de Defesa Nacional
+91
