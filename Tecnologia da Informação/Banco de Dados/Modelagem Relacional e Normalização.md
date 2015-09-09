@@ -77,6 +77,7 @@ Por que normalizar as tabelas de um banco de dados?
 * Diminuir o espaço de armazenamento dos dados
 * Aumentar a eficiência de consultas e atualizações
 * Remover possíveis anomalias de atualização
+* Remover a redundância de dados nos arquivos.
 
 
 ```
