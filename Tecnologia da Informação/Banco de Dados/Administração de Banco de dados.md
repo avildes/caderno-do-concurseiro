@@ -32,4 +32,4 @@
     
     --> Determinar normas de incorporação e manuseio dos dados
 
-> **Obs.: A banca gosta de confundir esses dois cargos, fique atento!**
+> **Obs.: As bancas gostam de confundir esses dois cargos, fique atento!**
