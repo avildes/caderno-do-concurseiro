@@ -24,26 +24,43 @@
 
 * Se baseia na teoria dos conjuntos (Álgebra Relacional) e representa o banco de dados como uma coleção de relações. Cada linha da tabela representa uma coleção de valores de dados relacionados. Uma linha representa um fato que normalmente corresponde a uma entidade ou relacionamento do mundo real.
 	  Na terminlogia formal do modelo relacional, uma linha é chamada de tupla, um cabeçalho da coluna é chamado de atributo e a tabela é chamada relação. O tipo de dado que descreve os tipos de valores que podem aparecer em cada coluna é representado por um domínio de valores possíveis.
-* Características das relações:
-		--> Ordenação das tuplas em uma relação:
-			Uma relação é definida como um conjunto de tuplas. Matemáticamente, os elementos de um conjunto não possuem ordem entre eles; logo, as tuplas em uma relação não possuem nenhuma ordem em particular.
-		--> Valores e NULLs nas tuplas:
-			Cada valor em uma tupla é um valor atômico; ou seja, ele não é divisível em componentes dentro da estrutura do modelo relacional básica. Logo, atributos compostos ou multivalorados não são permitidos. Grande parte da teoria por trás do modelo relacional foi desenvolvida com essa suposição em mente, que é chamada pressuposto da primeira forma normal. Assim, atributos multivalorados precisam ser representados por relações separadas e os atributos compostos são representados apenas por seus atributos de componentes simples no modelo relacional básico.
-			Um valor especial, chamado NULL, é usado para representar os valores de atributos que podem ser desconhecidos ou não se aplicam.
+* **Características das relações:**
+
+  1. **Ordenação das tuplas em uma relação:**
+
+    Uma relação é definida como um conjunto de tuplas. Matemáticamente, os elementos de um conjunto não possuem ordem entre eles; logo, as tuplas em uma relação não possuem nenhuma ordem em particular.
+
+  2. **Valores e NULLs nas tuplas:**
+
+    Cada valor em uma tupla é um valor atômico; ou seja, ele não é divisível em componentes dentro da estrutura do modelo relacional básica. Logo, atributos compostos ou multivalorados não são permitidos. Grande parte da teoria por trás do modelo relacional foi desenvolvida com essa suposição em mente, que é chamada pressuposto da primeira forma normal. Assim, atributos multivalorados precisam ser representados por relações separadas e os atributos compostos são representados apenas por seus atributos de componentes simples no modelo relacional básico.
+    
+    Um valor especial, chamado NULL, é usado para representar os valores de atributos que podem ser desconhecidos ou não se aplicam.
 	
-* Restrições:
-		--> Restrição de domínio:
-			É possível determinar um tipo de atributo restringindo seus valores. Ao tentar inserir ou modificar um valor colocando um outro valor de um tipo diferente do primeiro, ou um valor fora do domínio especificado, esta restrição é violada e , por consequência, a operação é cancelada.
-		--> Restrição de integridade de chave:
-			Garante que tuplas de uma relação sejam únicas.
-		--> Restrução de integridade de vazio:
-			Especifica se os atributos podem ou não ser vazios a depender da relação a que se referem.
-		--> Restrição de integridade de entidade:
-			Afirma que nenhum valor de chave primária pode ser nulo.
-		--> Restrição de integridade referencial:
-O valor da chave estrangeira corresponde a uma chave existente e não nula em uma tupla de outra relação.
-		--> Restrição de integridade semântica:
-			São normalmente especificada por regras de negócio e implementadas na aplicação. Podem ser implementadas pelos SGBD's através de TRIGGERS e ASSERTIONS.
+* **Restrições:**
+
+  1. **Restrição de domínio:**
+
+    É possível determinar um tipo de atributo restringindo seus valores. Ao tentar inserir ou modificar um valor colocando um outro valor de um tipo diferente do primeiro, ou um valor fora do domínio especificado, esta restrição é violada e , por consequência, a operação é cancelada.
+    
+  2. **Restrição de integridade de chave:**
+    
+    Garante que tuplas de uma relação sejam únicas.
+
+  3. **Restrição de integridade de vazio:**
+    
+    Especifica se os atributos podem ou não ser vazios a depender da relação a que se referem.
+
+  4. **Restrição de integridade de entidade:**
+    
+    Afirma que nenhum valor de chave primária pode ser nulo.
+
+  5. **Restrição de integridade referencial:**
+    
+    O valor da chave estrangeira corresponde a uma chave existente e não nula em uma tupla de outra relação.
+
+  6. **Restrição de integridade semântica:**
+    
+    São normalmente especificada por regras de negócio e implementadas na aplicação. Podem ser implementadas pelos SGBD's através de TRIGGERS e ASSERTIONS.
 
 **2 - Modelagem Orientada a Objetos:**
 
