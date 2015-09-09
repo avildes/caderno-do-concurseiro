@@ -134,6 +134,8 @@ Parágrafo Único. Lei complementar disporá sobre a elaboração, redação, alteração
 
 ##Da Emenda à Constituição
 
+O objetivo da emenda constitucional é alterar a constituição. A emenda constituicional é limitada, são três espécies de limites: Limites Materiais, Limites Circunstânciais e Limites Procedimentais.
+
 Art. 60. A Constituição poderá ser emendada mediante **proposta**:
 * I - de um terço, no mínimo, dos membros da Câmara dos Deputados ou do Senado Federal;
 * II - do Presidente da República;
@@ -155,7 +157,17 @@ Art. 60. A Constituição poderá ser emendada mediante **proposta**:
 
 ##Das leis
 
-61
+Art. 61. A iniciativa das leis complementares e ordinárias cabe a qualquer membro ou Comissão da Câmara dos Deputados, do Senado Federal ou do Congresso Nacional, ao Presidente da República e aos cidadãos, na forma e nos casos previstos nesta Constituição.
+
+§ 1º São de iniciativa privativa do Presidente da República as leis que:
+* I - fixem ou modifiquem os efetivos das Forças Armadas;
+* II - disponham sobre:
+  * a) criação de cargos, funções ou empregos públicos na administração direta e autárquica ou aumento de sua remuneração;
+  * b) organização administrativa e judiciária, matéria tributária e orçamentária, serviços públicos e pessoal da administração dos Territórios;
+  * c) servidores públicos da União e Territórios, seu regime jurídico, provimento de cargos, estabilidade e aposentadoria;
+* I - ;
+§ 2º 
+
 62
 63
 64
