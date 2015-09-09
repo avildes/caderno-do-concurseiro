@@ -68,6 +68,9 @@
     
     São normalmente especificada por regras de negócio e implementadas na aplicação. Podem ser implementadas pelos SGBD's através de TRIGGERS e ASSERTIONS.
 
+> Questão retirada do livro: Questões comentadas CESPE (DominandoTI).
+(TRT21-RN/Analista Judiciário/Tecnologia da Informação/2010) Uma chave estrangeira é um atributo ou uma combinação de atributos em uma relação, cujos valores são necessários para equivaler somente à chave primária de outra relação.
+
 **2 - Modelagem Orientada a Objetos:**
 
 * O modelo de dados Objeto-Relacional combina os befícios do Modelo Relacional com a capacidade de modelagem do Modelo Orientado a Objetos. Este modelo utiliza referências para representar conexões entre objetos tornando as consultas baseadas em caminhos de referência mais compactas dos que as consultas feitas com junção. Com essas referências conseguimos suporte para realizar consultas complexas sobre dados complexos. 
