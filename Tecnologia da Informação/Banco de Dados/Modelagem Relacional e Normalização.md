@@ -99,10 +99,14 @@ Chaves Primárias e Alternativas (ou Alternadas) são exemplos de chaves candida
 
 ##Objetivos da Normalização
 
-Por que normalizar as tabelas de um banco de dados?
+Normalização é um processo aplicado às tabelas de um **modelo lógico** que visa:
+
 * Diminuir o espaço de armazenamento dos dados
+
 * Aumentar a eficiência de consultas e atualizações
+
 * Remover possíveis anomalias de atualização
+
 * Remover a redundância de dados nos arquivos.
 
 
