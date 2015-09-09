@@ -26,7 +26,7 @@
 
 #Modelagem de dados relacional e orientada a objetos. 
 
-**1 - Modelagem Relacional:**
+##**Modelagem Relacional:**
 
 * Se baseia na teoria dos conjuntos (Álgebra Relacional) e representa o banco de dados como uma coleção de relações. Cada linha da tabela representa uma coleção de valores de dados relacionados. Uma linha representa um fato que normalmente corresponde a uma entidade ou relacionamento do mundo real.
 	  Na terminlogia formal do modelo relacional, uma linha é chamada de tupla, um cabeçalho da coluna é chamado de atributo e a tabela é chamada relação. O tipo de dado que descreve os tipos de valores que podem aparecer em cada coluna é representado por um domínio de valores possíveis.
@@ -71,7 +71,15 @@
 > Questão retirada do livro: Questões comentadas CESPE (DominandoTI).
 (TRT21-RN/Analista Judiciário/Tecnologia da Informação/2010) Uma chave estrangeira é um atributo ou uma combinação de atributos em uma relação, cujos valores são necessários para equivaler somente à chave primária de outra relação.
 
-**2 - Modelagem Orientada a Objetos:**
+> Comentário:
+  Os valores referenciados por uma chave estrangeira não precisam, necessariamente, referenciar valores de chaves candidatas. Outro erro da questão é afirmar que uma chave estrangeira sempre referencia valores de outra relação, pois a chave estrangeira pode referenciar a própria tabela no caso de um auto-relacionamento. GABARITO: Errada.
+  
+###Superchave, Chave Candidata, Chave Primária e Chave Alternada:
+
+####Superchave:
+Uma superchave é um conjunto de um ou mais atributos que, tomados coletivamente, nos permite identificar unicamente uma tupla (linha) da relação. Por exemplo, considerando uma tabela Empregado com as colunas CPF, Nome e Sexo, seriam exemplos de superchaves os conjuntos compostos pelas colunas (CPF, Nome, Sexo), (CPF, Sexo), (CPF, Nome) e (CPF), pois na tabela Empregado não haverá duas tuplas repetidas considerando esses subconjuntos de colunas.
+
+##**2 - Modelagem Orientada a Objetos:**
 
 * O modelo de dados Objeto-Relacional combina os befícios do Modelo Relacional com a capacidade de modelagem do Modelo Orientado a Objetos. Este modelo utiliza referências para representar conexões entre objetos tornando as consultas baseadas em caminhos de referência mais compactas dos que as consultas feitas com junção. Com essas referências conseguimos suporte para realizar consultas complexas sobre dados complexos. 
 * Utiliza os construtores set, list, multiset ou array para organizar coleções de objetos.
