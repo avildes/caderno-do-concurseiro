@@ -11,7 +11,7 @@
 
 **3 - Projeto Lógico:**
 
-* O objetivo do projeto lógico é definir a estrutura do banco de dados com base no projeto conceitual. Aqui serão definidas as tabelas, colunas, metadados (os tipos de dados, obrigatoriedade, chaves), relacionamentose, regras etc. O resultado é um esquema do banco de dados parecido com o modelo conceitual, proém com mais detalhes de banco de dados e não apenas conceitos.
+* O objetivo do projeto lógico é definir a estrutura do banco de dados com base no projeto conceitual. Aqui serão definidas as tabelas, colunas, metadados (os tipos de dados, obrigatoriedade, chaves), relacionamentos, regras e etc. O resultado é um esquema do banco de dados parecido com o modelo conceitual, porém com mais detalhes de banco de dados e não apenas conceitos.
 
 **4 - Projeto Físico:**
 
