@@ -7,16 +7,22 @@
 
 **2 - Projeto Conceitual:**
 
-* Nesta etapa o esquema conceitual do banco de dados é construído com base no mini-mundo gerado na etapa anterior. É muito comum utilizar o modelo entidade-relacionamento (E-R) nesta etapa. O esquema conceitual descreve o banco de dados em uma visão macro e tem o foco no conteúdo de informação: entidades, atributos, relacionamentos, etc.
+* Nesta etapa o esquema conceitual do banco de dados é construído com base no mini-mundo gerado na etapa anterior. É muito comum utilizar o modelo entidade-relacionamento (E-R) nesta etapa. O esquema conceitual descreve o banco de dados em uma visão macro e tem o foco no conteúdo de informação: entidades, atributos, relacionamentos, etc. 
+
+> Este nível de abstração do projeto de banco de dados representa o domínio observado independente de SGBD ou do paradigma utilizado por ele, como por exemplo, hierárquico, em rede, relacional ou orientado a objetos, entre outros. O modelo utilizado neste nível de abstração é o Modelo Entidade Relacionamento (ER).  - do livro: Questões comentadas CESPE (DominandoTI).
 
 **3 - Projeto Lógico:**
 
 * O objetivo do projeto lógico é definir a estrutura do banco de dados com base no projeto conceitual. Aqui serão definidas as tabelas, colunas, metadados (os tipos de dados, obrigatoriedade, chaves), relacionamentos, regras e etc. O resultado é um esquema do banco de dados parecido com o modelo conceitual, porém com mais detalhes de banco de dados e não apenas conceitos.
 
+> O nível lógico também não depende de um SGBD específico, mas depende do paradigma utilizado pelo SGBD. Ao desenharmos um modelo lógico para o paradigma relacional, esse modelo é válido para qualquer SGBD Relacional, como por exemplo, Oracle, DB2 MS SQL SERVER, MySQL. Por outro lado, o modelo utilizado neste nível de abstração é dependente de paradigma. Por exemplo, para um SGBD Relacional será utilizado um modelo baseado em tabelas, para um SGBD Orientado a Objetos (OO), será utilizado o diagrama de classes da UML. - do livro: Questões comentadas CESPE (DominandoTI).
+
 **4 - Projeto Físico:**
 
 * Esta é a etapa final do projeto de banco de dados e é fortemente ligada ao Sistema de Gerenciamento de Banco de Dados (SGBD) que será utilizado. Nela definem-se os scripts de criação dos objetos no banco de dados (tabelas, visões, colunas, funções, ...), permissões de acesso de usuários e outros detalhes técnicos relacionados a implementação do banco.
-* A otimização de desempenho do banco de dados é trabalhada nesta fase do projeto. 
+* A otimização de desempenho do banco de dados é trabalhada nesta fase do projeto.
+
+> Por último, o modelo físico depende do SGBD específico e do paradigma implementado por ele. O modelo utilizado neste nível de abstração deve ser capaz de descrever as estruturas físicas do SGBD específico. - do livro: Questões comentadas CESPE (DominandoTI).
 
 #Modelagem de dados relacional e orientada a objetos. 
 
