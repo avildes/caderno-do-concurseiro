@@ -79,6 +79,15 @@
 ####Superchave:
 Uma superchave é um conjunto de um ou mais atributos que, tomados coletivamente, nos permite identificar unicamente uma tupla (linha) da relação. Por exemplo, considerando uma tabela Empregado com as colunas CPF, Nome e Sexo, seriam exemplos de superchaves os conjuntos compostos pelas colunas (CPF, Nome, Sexo), (CPF, Sexo), (CPF, Nome) e (CPF), pois na tabela Empregado não haverá duas tuplas repetidas considerando esses subconjuntos de colunas.
 
+####Chaves Candidatas:
+As chaves candidatas são superchaves mínimas ou irredutíveis, ou seja, considerando-se uma superchave, caso qualquer atributo integrante da superchave seja suprimido ela deixa de ser uma superchave. Por exemplo, considerando-se a superchave (CPF, Nome, Sexo), ao retirarmos a coluna Sexo, o subconjunto (CPF, Nome) continua sendo uma superchave. Então (CPF, Nome, Sexo) é uma superchave, mas não é uma chave candidata. Por outro lado, a superchave (CPF) é um exemplo de chave candidata, pois é mínima e garante a unicidade das tuplas da tabela empregado.
+
+####Chave Primária:
+Chave Primária é o termo utilizado para denotar a chave candidata que é escolhida pelo projetista de banco de dados como principal meio de identificar tuplas dentro de uma relação.
+
+####Chaves Alternadas ou Alternativas:
+Chaves Primárias e Alternativas (ou Alternadas) são exemplos de chaves candidatas. Em certas situações mais de uma coluna ou combinação (irredutível) de colunas servem para distinguir uma linha das demais dentro de uma tabela. Se uma destas for escolhida como chave primária, as demais serão chamadas de chaves alternativas. Por exemplo, caso a tabela empregado também possuísse a coluna Matrícula, cujo valor fosse único para cada tupla da tabela, sua composição seria (CPF, Matrícula, Nome, Sexo). Neste caso, não há qualquer diferença entre usar CPF ou Matrícula como chave primária. Ao escolher CPF para chave primária, a coluna Matrícula passa a ser denominada chave alternativa ou alternadam também denominada chave secundária.
+
 ##**2 - Modelagem Orientada a Objetos:**
 
 * O modelo de dados Objeto-Relacional combina os befícios do Modelo Relacional com a capacidade de modelagem do Modelo Orientado a Objetos. Este modelo utiliza referências para representar conexões entre objetos tornando as consultas baseadas em caminhos de referência mais compactas dos que as consultas feitas com junção. Com essas referências conseguimos suporte para realizar consultas complexas sobre dados complexos. 
