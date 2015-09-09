@@ -14,7 +14,7 @@ Estrutura de um Projeto de Banco de Dados:
 	• Esta é a etapa final do projeto de banco de dados e é fortemente ligada ao Sistema de Gerenciamento de Banco de Dados (SGBD) que será utilizado. Nela definem-se os scripts de criação dos objetos no banco de dados (tabelas, visões, colunas, funções, ...), permissões de acesso de usuários e outros detalhes técnicos relacionados a implementação do banco.
 	• A otimização de desempenho do banco de dados é trabalhada nesta fase do projeto. 
 
-#. Modelagem de dados relacional e orientada a objetos. 
+#Modelagem de dados relacional e orientada a objetos. 
 
 1 - Modelagem Relacional:
 	• Se baseia na teoria dos conjuntos (Álgebra Relacional) e representa o banco de dados como uma coleção de relações. Cada linha da tabela representa uma coleção de valores de dados relacionados. Uma linha representa um fato que normalmente corresponde a uma entidade ou relacionamento do mundo real.
