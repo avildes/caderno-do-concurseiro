@@ -1,106 +1,106 @@
 #Processo Legislativo
 
-Art. 59. O processo legislativo compreende a elaboração de:
-* I - emendas à Constituição;
+Art. 59. O processo legislativo compreende a elaboraÃ§Ã£o de:
+* I - emendas Ã  ConstituiÃ§Ã£o;
 * II - leis complementares;
-* III - leis ordinárias;
+* III - leis ordinÃ¡rias;
 * IV - leis delegadas;
-* V - medidas provisórias;
+* V - medidas provisÃ³rias;
 * VI - decretos legislativos;
-* VII - resoluções.
+* VII - resoluÃ§Ãµes.
 
-Parágrafo Único. Lei complementar disporá sobre a elaboração, redação, alteração e consolidação das leis.
+ParÃ¡grafo Ãšnico. Lei complementar disporÃ¡ sobre a elaboraÃ§Ã£o, redaÃ§Ã£o, alteraÃ§Ã£o e consolidaÃ§Ã£o das leis.
 
-##Da Emenda à Constituição
+##Da Emenda Ã  ConstituiÃ§Ã£o
 
 ###Resumo:
 
 ![Mapa Mental](https://raw.githubusercontent.com/avildes/caderno-do-concurseiro/master/Mapas%20Mentais/Emenda%20Constitucional.png)
 
-O objetivo da emenda constitucional é alterar a Constituição. A emenda constituicional é limitada, e as espécies de limites expressos na constituição podem ser divididos em: Limites Materiais, Limites Circunstânciais e Limites Procedimentais.
+O objetivo da emenda constitucional Ã© alterar a ConstituiÃ§Ã£o. A emenda constituicional Ã© limitada, e as espÃ©cies de limites expressos na constituiÃ§Ã£o podem ser divididos em: Limites Materiais, Limites CircunstÃ¢nciais e Limites Procedimentais.
 
 ####Limites Formais ou Procedimentais:
 
 **Iniciativa:**
 
-A iniciativa ou proposta de emenda à Constituição (PEC) deve ser feita por:
-* 1/3, no mínimo, dos membros da Câmara dos Deputados ou do Senado Federal, ou;
-* Presidente da República, ou;
-* mais da metade das Assembléias Legislativas das unidades da Federação, manifestando-se, cada uma delas pela **maioria relativa** de seus membros.
+A iniciativa ou proposta de emenda Ã  ConstituiÃ§Ã£o (PEC) deve ser feita por:
+* 1/3, no mÃ­nimo, dos membros da CÃ¢mara dos Deputados ou do Senado Federal, ou;
+* Presidente da RepÃºblica, ou;
+* mais da metade das AssemblÃ©ias Legislativas das unidades da FederaÃ§Ã£o, manifestando-se, cada uma delas pela **maioria relativa** de seus membros.
 
->Obs.: Havendo proposta de emenda por qualquer pessoa diversa daquelas taxativamente enumeradas, estaremos diante de vício formal subjetivo, caracterizador da inconstitucionalidade.
+>Obs.: Havendo proposta de emenda por qualquer pessoa diversa daquelas taxativamente enumeradas, estaremos diante de vÃ­cio formal subjetivo, caracterizador da inconstitucionalidade.
 
-**Quorum de aprovação:**
+**Quorum de aprovaÃ§Ã£o:**
 
-A proposta de emenda será discutida e votada em cada **Casa do Congresso Nacional**, em **2 turnos**, considerando-se aprovada se obtiver, **em ambos**, **3/5** (60%) dos votos dos respectivos membros.
+A proposta de emenda serÃ¡ discutida e votada em cada **Casa do Congresso Nacional**, em **2 turnos**, considerando-se aprovada se obtiver, **em ambos**, **3/5** (60%) dos votos dos respectivos membros.
 
->**Lembrando:** O processo legislativo de formação da lei complementar e da lei ordinária deverá ser discutido e votado em **um único turno** de votação, **tendo por quorum a maioria absoluta e a maioria relativa, respectivamente**.
+>**Lembrando:** O processo legislativo de formaÃ§Ã£o da lei complementar e da lei ordinÃ¡ria deverÃ¡ ser discutido e votado em **um Ãºnico turno** de votaÃ§Ã£o, **tendo por quorum a maioria absoluta e a maioria relativa, respectivamente**.
 
 
->Obs.: O texto aprovado por uma Casa não pode ser modificado pela outra sem que a matéria volte para a apreciação da Casa iniciadora. O Congresso Nacional tem utilizado a técnica da PEC Paralela, ou seja, a parte da PEC que não foi modificada é promulgada e a parte modificada volta para reanálise, e como se fosse uma nova EC, para a casa iniciadora. A não observância desse requisito formal caracterizará o **vício de inconstitucionalidade**.
+>Obs.: O texto aprovado por uma Casa nÃ£o pode ser modificado pela outra sem que a matÃ©ria volte para a apreciaÃ§Ã£o da Casa iniciadora. O Congresso Nacional tem utilizado a tÃ©cnica da PEC Paralela, ou seja, a parte da PEC que nÃ£o foi modificada Ã© promulgada e a parte modificada volta para reanÃ¡lise, e como se fosse uma nova EC, para a casa iniciadora. A nÃ£o observÃ¢ncia desse requisito formal caracterizarÃ¡ o **vÃ­cio de inconstitucionalidade**.
 
-**a href="http://www.direitonet.com.br/dicionario/exibir/911/Promulgada" title="É por meio da promulgação que se confere força executória à norma.">Promulgação</a>**:
+**<a href="http://www.direitonet.com.br/dicionario/exibir/911/Promulgada" title="Ã‰ por meio da promulgaÃ§Ã£o que se confere forÃ§a executÃ³ria Ã  norma.">PromulgaÃ§Ã£o</a>**:
 
-A promulgação da emenda deve ser realizada pelas Mesas da Câmara dos Deputados e do Senado Federal, com o seu respectivo número de ordem. O número de ordem nada mais é do que o numeral indicativo da quantidade de vezes que a Constituição foi alterada (pelo poder constituinte derivado) desde a sua promulgação. 
+A promulgaÃ§Ã£o da emenda deve ser realizada pelas Mesas da CÃ¢mara dos Deputados e do Senado Federal, com o seu respectivo nÃºmero de ordem. O nÃºmero de ordem nada mais Ã© do que o numeral indicativo da quantidade de vezes que a ConstituiÃ§Ã£o foi alterada (pelo poder constituinte derivado) desde a sua promulgaÃ§Ã£o. 
 
-É importante lembrar que, iniciado o processo de alteração do texto constitucional através de emenda, discutido, votade e aprovado em cada Casa, em 2 turnos de votação, o projeto será encaminhado diretamente para promulgação, **inexistindo sanção ou veto presidencial**.
+Ã‰ importante lembrar que, iniciado o processo de alteraÃ§Ã£o do texto constitucional atravÃ©s de emenda, discutido, votade e aprovado em cada Casa, em 2 turnos de votaÃ§Ã£o, o projeto serÃ¡ encaminhado diretamente para promulgaÃ§Ã£o, **inexistindo sanÃ§Ã£o ou veto presidencial**.
 
 **Proposta de emenda rejeitada ou havida por prejudicada**:
 
-A matéria constante de proposta de emenda rejeitada ou havida por prejudicada não pode ser objeto de nova apresentação na mesma<a href="" title="A sessão legislativa ordinária é o período de atividade normal do Congresso a cada ano, de 2 de fevereiro a 17 de julho e de 1º de agosto a 22 de dezembro. Cada quatro sessões legislativas, a contar do ano seguinte ao das eleições parlamentares, compõem uma legislatura. Já a sessão legislativa extraordinária compreende o trabalho realizado durante o recesso (ver verbete) parlamentar, mediante convocação. Cada período de convocação constitui uma sessão legislativa extraordinária."> sessão legislativa</a>. 
+A matÃ©ria constante de proposta de emenda rejeitada ou havida por prejudicada nÃ£o pode ser objeto de nova apresentaÃ§Ã£o na mesma<a href="" title="A sessÃ£o legislativa ordinÃ¡ria Ã© o perÃ­odo de atividade normal do Congresso a cada ano, de 2 de fevereiro a 17 de julho e de 1Âº de agosto a 22 de dezembro. Cada quatro sessÃµes legislativas, a contar do ano seguinte ao das eleiÃ§Ãµes parlamentares, compÃµem uma legislatura. JÃ¡ a sessÃ£o legislativa extraordinÃ¡ria compreende o trabalho realizado durante o recesso (ver verbete) parlamentar, mediante convocaÃ§Ã£o. Cada perÃ­odo de convocaÃ§Ã£o constitui uma sessÃ£o legislativa extraordinÃ¡ria."> sessÃ£o legislativa</a>. 
 
->Trata-se de regra diferente da prevista para as leis complementares e ordinárias, em relação às quais é permitido o oferecimento de novo projeto de lei (quando rejeitado) na mesma sessão legislativa. mediante proposta da **maioria absoluta** dos membros de qualquer das Casas do Congresso.
+>Trata-se de regra diferente da prevista para as leis complementares e ordinÃ¡rias, em relaÃ§Ã£o Ã s quais Ã© permitido o oferecimento de novo projeto de lei (quando rejeitado) na mesma sessÃ£o legislativa. mediante proposta da **maioria absoluta** dos membros de qualquer das Casas do Congresso.
 
-####Limitações Circunstânciais:
+####LimitaÃ§Ãµes CircunstÃ¢nciais:
 
-Em determinadas circunstâncias, o constituinte originário vedou a alteração do texto original, em decorrência da gravidade e anormalidade institucionais. Nesses termos, a CF não poderá ser emendada na vigência de:
-* intervenção federal;
+Em determinadas circunstÃ¢ncias, o constituinte originÃ¡rio vedou a alteraÃ§Ã£o do texto original, em decorrÃªncia da gravidade e anormalidade institucionais. Nesses termos, a CF nÃ£o poderÃ¡ ser emendada na vigÃªncia de:
+* intervenÃ§Ã£o federal;
 * estado de defesa;
-* estado de sítio;
+* estado de sÃ­tio;
 
-####Limitações Materiais:
+####LimitaÃ§Ãµes Materiais:
 
-O poder constituinte originário também estabeleceu algumas vedações materiais, ou seja, definiu um núcleo intangível, comumente chamado pela doutrina de **cláusulas pétreas**. Nesse sentido, não será objeto de deliberação a proposta de emenda tendente a abolir:
+O poder constituinte originÃ¡rio tambÃ©m estabeleceu algumas vedaÃ§Ãµes materiais, ou seja, definiu um nÃºcleo intangÃ­vel, comumente chamado pela doutrina de **clÃ¡usulas pÃ©treas**. Nesse sentido, nÃ£o serÃ¡ objeto de deliberaÃ§Ã£o a proposta de emenda tendente a abolir:
 * a forma federativa do estado;
-* o voto direto, secreto, universal e periódico;
-* a separação dos Poderes;
+* o voto direto, secreto, universal e periÃ³dico;
+* a separaÃ§Ã£o dos Poderes;
 * os direitos e garantias individuais;
 
->Obs.: O texto apenas não admite a proposta de emenda (PEC) que tenda a **abolir** o direito e garantia individual. **Isso não significa, como já interpretou o STF, que a matéria não possa ser modificada**.
+>Obs.: O texto apenas nÃ£o admite a proposta de emenda (PEC) que tenda a **abolir** o direito e garantia individual. **Isso nÃ£o significa, como jÃ¡ interpretou o STF, que a matÃ©ria nÃ£o possa ser modificada**.
 
 ###Lei:
 
-Art. 60. A Constituição poderá ser emendada mediante **proposta**:
-* I - de um terço, no mínimo, dos membros da Câmara dos Deputados ou do Senado Federal;
-* II - do Presidente da República;
-* III - de mais da metade das Assembléias Legislativas das unidades da Federação, manifestando-se, cada uma delas, pela maioria relativa de seus membros;
+Art. 60. A ConstituiÃ§Ã£o poderÃ¡ ser emendada mediante **proposta**:
+* I - de um terÃ§o, no mÃ­nimo, dos membros da CÃ¢mara dos Deputados ou do Senado Federal;
+* II - do Presidente da RepÃºblica;
+* III - de mais da metade das AssemblÃ©ias Legislativas das unidades da FederaÃ§Ã£o, manifestando-se, cada uma delas, pela maioria relativa de seus membros;
 
-§ 1º A Constituição não poderá ser emendada na vigência de intervenção federal, de estado de defesa ou de estado de sítio.
+Â§ 1Âº A ConstituiÃ§Ã£o nÃ£o poderÃ¡ ser emendada na vigÃªncia de intervenÃ§Ã£o federal, de estado de defesa ou de estado de sÃ­tio.
 
-§ 2º A proposta será **discutida e votada** em cada Casa do Congresso Nacional, em dois turnos, considerando-se aprovada se obtiver, em ambos, três quintos dos votos dos respectivos membros;
+Â§ 2Âº A proposta serÃ¡ **discutida e votada** em cada Casa do Congresso Nacional, em dois turnos, considerando-se aprovada se obtiver, em ambos, trÃªs quintos dos votos dos respectivos membros;
 
-§ 3º A emenda à Constituição será <a href="http://www.direitonet.com.br/dicionario/exibir/911/Promulgada" title="É por meio da promulgação que se confere força executória à norma.">promulgada</a> pelas Mesas da Câmara dos Deputados e do Senado Federal, com o respectivo número de ordem.
+Â§ 3Âº A emenda Ã  ConstituiÃ§Ã£o serÃ¡ <a href="http://www.direitonet.com.br/dicionario/exibir/911/Promulgada" title="Ã‰ por meio da promulgaÃ§Ã£o que se confere forÃ§a executÃ³ria Ã  norma.">promulgada</a> pelas Mesas da CÃ¢mara dos Deputados e do Senado Federal, com o respectivo nÃºmero de ordem.
 
-§ 4º Não será objeto de deliberação a proposta de emenda tendente a abolir:
+Â§ 4Âº NÃ£o serÃ¡ objeto de deliberaÃ§Ã£o a proposta de emenda tendente a abolir:
 * I - a forma federativa do Estado;
-* II - o voto direto, secreto, universal e periódico;
-* III - a separação dos Poderes;
+* II - o voto direto, secreto, universal e periÃ³dico;
+* III - a separaÃ§Ã£o dos Poderes;
 * IV - os direitos e garantias individuais;
 
-§ 5º A matéria constante de proposta de emenda rejeitada ou havida por prejudicada não pode ser objeto de nova proposta na mesma <a href="" title="A sessão legislativa ordinária é o período de atividade normal do Congresso a cada ano, de 2 de fevereiro a 17 de julho e de 1º de agosto a 22 de dezembro. Cada quatro sessões legislativas, a contar do ano seguinte ao das eleições parlamentares, compõem uma legislatura. Já a sessão legislativa extraordinária compreende o trabalho realizado durante o recesso (ver verbete) parlamentar, mediante convocação. Cada período de convocação constitui uma sessão legislativa extraordinária."> sessão legislativa</a>.
+Â§ 5Âº A matÃ©ria constante de proposta de emenda rejeitada ou havida por prejudicada nÃ£o pode ser objeto de nova proposta na mesma <a href="" title="A sessÃ£o legislativa ordinÃ¡ria Ã© o perÃ­odo de atividade normal do Congresso a cada ano, de 2 de fevereiro a 17 de julho e de 1Âº de agosto a 22 de dezembro. Cada quatro sessÃµes legislativas, a contar do ano seguinte ao das eleiÃ§Ãµes parlamentares, compÃµem uma legislatura. JÃ¡ a sessÃ£o legislativa extraordinÃ¡ria compreende o trabalho realizado durante o recesso (ver verbete) parlamentar, mediante convocaÃ§Ã£o. Cada perÃ­odo de convocaÃ§Ã£o constitui uma sessÃ£o legislativa extraordinÃ¡ria."> sessÃ£o legislativa</a>.
 
 ##Das leis
 
-Art. 61. A iniciativa das leis complementares e ordinárias cabe a qualquer membro ou Comissão da Câmara dos Deputados, do Senado Federal ou do Congresso Nacional, ao Presidente da República e aos cidadãos, na forma e nos casos previstos nesta Constituição.
+Art. 61. A iniciativa das leis complementares e ordinÃ¡rias cabe a qualquer membro ou ComissÃ£o da CÃ¢mara dos Deputados, do Senado Federal ou do Congresso Nacional, ao Presidente da RepÃºblica e aos cidadÃ£os, na forma e nos casos previstos nesta ConstituiÃ§Ã£o.
 
-§ 1º São de iniciativa privativa do Presidente da República as leis que:
-* I - fixem ou modifiquem os efetivos das Forças Armadas;
+Â§ 1Âº SÃ£o de iniciativa privativa do Presidente da RepÃºblica as leis que:
+* I - fixem ou modifiquem os efetivos das ForÃ§as Armadas;
 * II - disponham sobre:
-  * a) criação de cargos, funções ou empregos públicos na administração direta e autárquica ou aumento de sua remuneração;
-  * b) organização administrativa e judiciária, matéria tributária e orçamentária, serviços públicos e pessoal da administração dos Territórios;
-  * c) servidores públicos da União e Territórios, seu regime jurídico, provimento de cargos, estabilidade e aposentadoria;
+  * a) criaÃ§Ã£o de cargos, funÃ§Ãµes ou empregos pÃºblicos na administraÃ§Ã£o direta e autÃ¡rquica ou aumento de sua remuneraÃ§Ã£o;
+  * b) organizaÃ§Ã£o administrativa e judiciÃ¡ria, matÃ©ria tributÃ¡ria e orÃ§amentÃ¡ria, serviÃ§os pÃºblicos e pessoal da administraÃ§Ã£o dos TerritÃ³rios;
+  * c) servidores pÃºblicos da UniÃ£o e TerritÃ³rios, seu regime jurÃ­dico, provimento de cargos, estabilidade e aposentadoria;
 * I - ;
-§ 2º 
+Â§ 2Âº 
 
 62
 63
@@ -111,7 +111,7 @@ Art. 61. A iniciativa das leis complementares e ordinárias cabe a qualquer membr
 68
 69
 
-##Da Fiscalização contábil, financeira e orçamentária
+##Da FiscalizaÃ§Ã£o contÃ¡bil, financeira e orÃ§amentÃ¡ria
 
 70
 71
