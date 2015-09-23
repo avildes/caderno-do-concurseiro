@@ -1,6 +1,11 @@
-#ITILv3
+#ITIL v3
 
-O ITIL (Information Technology Infrastructure Library) é um conjunto de boas práticas para serem aplicadas na infraestrutura, operação e gerenciamento de serviços de tecnologia da informação (ITSM).
+O ITIL (Information Technology Infrastructure Library) é um conjunto de boas práticas para serem aplicadas na infraestrutura, operação e gerenciamento de serviços de tecnologia da informação (ITSM). Segundo a ITIL, um serviço é um "meio de entregar valor aos clientes, facilitando a chegada aos resultados almejados e tirando deles a propriedade dos custos e riscos específicos".
+
+Pela perspectiva do cliente, a criação do valor de um serviço é uma função de duas variáveis: a **utilidade** (possui o desempenho desejado ou redução das restrições de desempenho) e a **garantia** (disponibilidade, capacidade, continuidade e segurança suficientes para o uso). Exemplo de utilidade é SMS sem limite do tamanho de texto, e exemplo de garantia é menor número de quedas no serviço.
+
+O **gerenciamento de serviços** pode ser definido como "um conjunto de capacitações organizacionais especializadas para fornecer valor aos clientes na forma de serviços", ou seja, de transformar recursos em serviços valiosos. Tais capacitações podem ser vistas como processos e funções para gerenciar serviços ao longo do seu ciclo de vida.
+
 
 A ITIL versão 1 (ou v1) era composta de 40 livros e por isso é chamada de biblioteca. A v2 foi criada entre 2000 e 2002 e resumiu o conteúdo do ITIL V1 em 8 livros:
 
