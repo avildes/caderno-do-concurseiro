@@ -1,8 +1,8 @@
 #ITILv3
 
-O ITIL (Information Technology Infrastructure Library) È um conjunto de boas pr·ticas para serem aplicadas na infraestrutura, operaÁ„o e gerenciamento de serviÁos de tecnologia da informaÁ„o (ITSM).
+O ITIL (Information Technology Infrastructure Library) √© um conjunto de boas pr√°ticas para serem aplicadas na infraestrutura, opera√ß√£o e gerenciamento de servi√ßos de tecnologia da informa√ß√£o (ITSM).
 
-A ITIL vers„o 1 (ou v1) era composta de 40 livros e por isso È chamada de biblioteca. A v2 foi criada entre 2000 e 2002 e resumiu o conte˙do do ITIL V1 em 8 livros:
+A ITIL vers√£o 1 (ou v1) era composta de 40 livros e por isso √© chamada de biblioteca. A v2 foi criada entre 2000 e 2002 e resumiu o conte√∫do do ITIL V1 em 8 livros:
 
 * Service Support
 * Service Delivery
@@ -14,14 +14,14 @@ A ITIL vers„o 1 (ou v1) era composta de 40 livros e por isso È chamada de biblio
 * Bussiness Perspective
 * Software Asset Management
  
-Em maio de 2007, foi lanÁada a vers„o 3 do ITIL consistindo de 26 processos e funÁıes, agrupadas em 5 volumes, arranjados sobre conceitos de uma estrutura de ciclo de vida de serviÁos. A vers„o 3 È composta por esses 5 volumes e por mais algumas publicaÁıes complementares. Os 5 livros compıem o ciclo de vida de um serviÁo, s„o eles:
+Em maio de 2007, foi lan√ßada a vers√£o 3 do ITIL consistindo de 26 processos e fun√ß√µes, agrupadas em 5 volumes, arranjados sobre conceitos de uma estrutura de ciclo de vida de servi√ßos. A vers√£o 3 √© composta por esses 5 volumes e por mais algumas publica√ß√µes complementares. Os 5 livros comp√µem o ciclo de vida de um servi√ßo, s√£o eles:
 
-* Service Strategy (EstratÈgia do ServiÁo)
-* Service Design (Projeto do ServiÁo)
-* Service Transition (TransiÁ„o do ServiÁo)
-* Service Operation (OperaÁ„o do ServiÁo)
-* Service Improvement (Melhoria ContÌnua de ServiÁo)
+* Service Strategy (Estrat√©gia do Servi√ßo)
+* Service Design (Projeto do Servi√ßo)
+* Service Transition (Transi√ß√£o do Servi√ßo)
+* Service Operation (Opera√ß√£o do Servi√ßo)
+* Service Improvement (Melhoria Cont√≠nua de Servi√ßo)
 
-##Ciclo de Vida do ServiÁo:
+##Ciclo de Vida do Servi√ßo:
 
-![Ciclo de Vida](https://raw.githubusercontent.com/avildes/caderno-do-concurseiro/master/Tecnologia%20da%20InformaÁ„o/ciclodevida.jpg)
+![Ciclo de Vida](https://raw.githubusercontent.com/avildes/caderno-do-concurseiro/master/Tecnologia%20da%20Informa√ß√£o/Gest%C3%A3o%20e%20Governan%C3%A7a/ciclodevida.jpg)
