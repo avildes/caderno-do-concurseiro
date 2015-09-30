@@ -37,6 +37,7 @@ Serviços são como componentes, blocos de construção independentes entre si m
 
 **Web Services não se encaixam no modelo clássico cliente-servidor. Na verdade eles tendem a estabelecer um sistema ponto-a-ponto, onde cada serviço pode atuar como cliente ou servidor.**
  
+ 
 ![Relacionamento entre web services](https://raw.githubusercontent.com/avildes/caderno-do-concurseiro/master/Tecnologia%20da%20Informação/Engenharia%20de%20Software/image002.gif)
 
 Cada bloco de construção (serviço) da SOA pode assumir uma ou mais de três funções:
@@ -45,6 +46,7 @@ Cada bloco de construção (serviço) da SOA pode assumir uma ou mais de três f
 * Registro de Serviços (Service Broker)
 * Cliente de Serviços
     
+	
 ![Relacionamento entre web services](https://raw.githubusercontent.com/avildes/caderno-do-concurseiro/master/Tecnologia%20da%20Informação/Engenharia%20de%20Software/relacaoWS.png)
 
 ####Provedor de Serviços
@@ -83,6 +85,7 @@ São 5 as camadas de abstração de um projeto na Arquitetura Orientada a Servi�
 
 ###Ciclo de vida SOA
 
+
 ![Relacionamento entre padroes](https://raw.githubusercontent.com/avildes/caderno-do-concurseiro/master/Tecnologia%20da%20Informação/Engenharia%20de%20Software/ciclodevidasoa.png)
 
 ####Estratégia
@@ -106,6 +109,7 @@ Análise em tempo real dos dados que trafegam em uma rede através do uso de um 
 
 	
 ###SOAP - Simple Object Access Protocol
+
 
 ![Relacionamento entre padroes](https://raw.githubusercontent.com/avildes/caderno-do-concurseiro/master/Tecnologia%20da%20Informação/Engenharia%20de%20Software/image001.gif)
 
