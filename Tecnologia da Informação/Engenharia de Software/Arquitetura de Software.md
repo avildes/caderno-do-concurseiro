@@ -6,30 +6,38 @@
 
 * Fraco Acoplamento:
 
-    Busca-se um fraco acoplamento, menor dependência entre os componentes da aplicação.
+  Busca-se um fraco acoplamento, menor dependência entre os componentes da aplicação.
   
 * Contrato de Serviço:
+
   Representa descrições de serviço e outros documentos que descrevem como um serviço pode ser acessado.
  
 * Autonomia:
+
   Serviços tem controle sobre a lógica que encapsulam.
   
 * Abstração:
+
   Além do que é descrito no contrato de serviço, serviços escondem sua parte lógica do mundo exterior.
   
 * Reusabilidade:
+
   A lógica é dividida no serviço com a intenção de reuso.
 
 * Composição:
+
   Vários serviços pequenos criam um serviço maior.
   
 * Sem estado (Stateless):
+
   Serviços minimizam a retenção da informação em determinada atividade.
   
 * Descoberta:
+
   Serviços são projetados para ser exteriormente descritos, para que possam ser encontrados e avaliados através de mecanismos de descobertas disponíveis.
   
 * Heterogeneidade:
+
   Para promover a interoperabilidade, SOA promove na implementação de serviços a independência de plataforma de desenvolvimento, tecnologias de implementação e linguagens de programação.
 
 ###Web Services
