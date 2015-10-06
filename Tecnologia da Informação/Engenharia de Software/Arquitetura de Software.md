@@ -6,7 +6,7 @@
 
 * Fraco Acoplamento:
 
-  Busca-se um fraco acoplamento, menor dependência entre os componentes da aplicação.
+    Busca-se um fraco acoplamento, menor dependência entre os componentes da aplicação.
   
 * Contrato de Serviço:
   Representa descrições de serviço e outros documentos que descrevem como um serviço pode ser acessado.
