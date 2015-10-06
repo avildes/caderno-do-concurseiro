@@ -5,6 +5,7 @@
 **Princípios Básicos da SOA**
 
 * Fraco Acoplamento:
+
   Busca-se um fraco acoplamento, menor dependência entre os componentes da aplicação.
   
 * Contrato de Serviço:
