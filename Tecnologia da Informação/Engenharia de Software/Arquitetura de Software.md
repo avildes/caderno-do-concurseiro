@@ -116,7 +116,24 @@ Neste estágio o foco é o desenvolvimento dos serviços, ou seja, sua codifica�
 
 Análise em tempo real dos dados que trafegam em uma rede através do uso de um software que analisa os dados e exibe informações gerenciais como resultado.
 
-	
+###ESB
+Enterprise Service Bus (ESB) é um barramento de serviços corporativos que fornece uma abstração de camadas na implementação de um sistema empresarial de mensagens. Combina uma abordagem orientada a eventos e orientada a serviços, simplificando integrações de negócios e unindo plataformas heterogêneas e ambientes (MARÉCHAUX, 2006)
+
+ESB é um dos mais importantes componentes de SOA, é um software de infraestrutura que torna os serviços de negócios reutilizáveis e amplamente disponíveis para usuários, aplicações, processo e outros serviços.
+
+Para desenvolver as integrações é cada vez mais complicado e não é rápido como o mercado exige, os barramentos de serviços corporativos aceleram e simplificam as integrações nas aplicações. Empresas como Totvs, IBM e Microsoft vendem essa ferramenta. Principais características dessas ferramentas são:
+
+* Roteamento de mensagens.
+ 
+* Conversão de protocolo de transporte.
+
+* Requisição de serviços.
+ 
+* Transformação de mensagens.
+ 
+* Distribuição de eventos de negócio.
+
+
 ###SOAP - Simple Object Access Protocol
 
 
@@ -129,3 +146,5 @@ O UDDI (Universal Description, Discovery and Integration) é acessado usando SOA
 # Referencias:
 
 http://www.devmedia.com.br/introducao-as-tecnologias-web-services-soa-soap-wsdl-e-uddi-parte1/2873
+
+http://www.devmedia.com.br/vantagens-e-desvantagens-de-soa/27437#ixzz3RGviPdi5
