@@ -40,6 +40,49 @@
 
   Para promover a interoperabilidade, SOA promove na implementação de serviços a independência de plataforma de desenvolvimento, tecnologias de implementação e linguagens de programação.
 
+###VANTAGENS DA ARQUITETURA ORIENTADA A SERVIÇOS
+O reuso de serviços é grande vantagem dessa arquitetura, aumentando produtividade, alinhamento com negócio, melhorias para corporação e facilidade na gerencia da tecnologia da informação, focando em melhorias continuas e automatizando os processos, disponibilizando qualidade nas informações trafegadas na empresa (SOBRINHO, 2011).
+
+Mudar o negócio e os sistemas das empresas não é uma tarefa fácil, particularmente em um contexto de mudanças constantes, a implantação de SOA não é diferente, sendo assim, porque deve ser utilizada essa arquitetura? Abaixo são listadas algumas vantagens que ela pode trazer para o negócio.
+
+* **Reutilização**: O serviço pode ser reutilizado para outras aplicações.
+
+* **Produtividade**: Com o reuso, a equipe de desenvolvimento pode reutilizar serviços em outros projetos, diminuindo o tempo de desenvolvimento.
+
+* **Flexibilidade**: Isolando a estrutura de um serviço as mudanças são feitas com maior facilidade.
+
+* **Manutenibilidade**: Com baixo acoplamento, facilita a manutenção dos serviços.
+
+* **Alinhamento com o negócio**: A área de negócio visualiza os processos alinhados com a tecnologia.
+
+* **Interoperabilidade**: Disponibilizar serviços independentemente da plataforma e tecnologia.
+
+* **Integração**: A integração com outros serviços, aplicativos e sistemas legados.
+
+* **Governança**: Gerenciamento nos processamentos de negócio.
+
+* **Padronizado**: É baseado no uso de padrões.
+
+* **Abstração**: Serviço totalmente abstraído da sua implementação.
+
+###DESVANTAGENS DA ARQUITETURA ORIENTADA A SERVIÇOS
+A principal preocupação em implementações dessa arquitetura é a questão da segurança. Em uma pesquisa global patrocinada pela CA, 43% dos executivos classifica a segurança como o ponto mais crítico nas iniciativas SOA. (TI INSIDE ONLINE, 2012).
+
+Todos os tipos de desenvolvimento de software tem suas desvantagens, na arquitetura orientada a serviço não é diferente, ela depende da implementação de normas, não é utilizada em aplicações com grande transferência de dados, alto acoplamento e aplicações que precisam manter estado. A seguir são listadas algumas desvantagens.
+
+* **Complexidade**: Uma grande quantidade de serviços precisa ser gerenciada.
+
+* **Performance**: A performance depende do servidor onde o serviço está publicado, como também da rede.
+
+* **Robustez**: Caso uma exceção acontecer não tem como reverter o processo.
+
+* **Disponibilidade**: Uma queda na rede ou no servidor deixa todos os serviços indisponíveis.
+
+* **Testabilidade**: O debug no serviço é um problema para os desenvolvedores.
+
+* **Segurança**: Os serviços estão disponíveis na rede, qualquer aplicativo pode consumir esse serviço, os dados são trafegados pela rede podendo ser interceptados.
+
+
 ###Web Services
 
 Serviços são como componentes, blocos de construção independentes entre si mas o conjunto deles representa o ambiente de aplicação. Porém, os serviços possuem algumas características específicas como a autonomia em relação a outros serviços. Um serviço é responsável pelo seu próprio domínio, o que significa limitar seu alcance para uma função de negócio específica (ou um grupo de funções relacionadas).
