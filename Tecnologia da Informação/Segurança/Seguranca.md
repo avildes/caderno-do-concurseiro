@@ -34,5 +34,5 @@ Depende da garantia de Confidencialidade e da Autenticidade. É a garantia de qu
 
 ####Irretratabilidade (Não Repúdio/Irrefutabilidade)
 
-Depende da garantia da Autenticidade e da Integridade. É condição necessária a validade jurídica das informações digitais. É a garantia de que o autor de uma informação não poderá negar falsamente a autoria de tal informação.
+Depende da garantia da Autenticidade e da Integridade. É condição necessária à validade jurídica das informações digitais. É a garantia de que o autor de uma informação não poderá negar falsamente a autoria de tal informação.
 
