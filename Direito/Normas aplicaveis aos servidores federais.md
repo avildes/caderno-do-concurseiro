@@ -1,0 +1,25 @@
+#Normas Aplicáveis aos Servidores Federais (Lei 8.112/1990)
+
+**Art. 1º:**
+ Esta Lei institui o Regime Jurídico dos Servidores Públicos Civis da União, das autarquias, inclusive as em regime especial, e das fundações públicas federais.
+
+Os servidores públicos da administração direta, autárquica e fundacional têm o regime jurídico definido na Lei 8.112/1990. Tal lei é uma lei federal, o que significa dizer que aplica-se exclusivamente a União. Os estados e municípios devem possuir leis próprias para estabelecer o regime de trabalho dos seus servidores. Vale ressaltar que o regime é diferente do que é aplicado aos empregados públicos das empresas públicas e das sociedades de economia mista. Estes submetem-se às regras da CLT.
+
+A relação entre os servidores e o poder público é legal ao invés de contratual. Por isso, o pacto contratual só poderá ser alterado por concordância das duas partes.
+
+Por outro lado, o regime jurídico dos servidores públicos poderá ser alterado sempre que o estatuto sofrer alterações. O STF já tomou decisões a respeito do assunto e seu posicionamento é de que  “o servidor público não tem direito adquirido a regime jurídico, o que, consequentemente, significa que não há violação a direito quando se altera a jornada de trabalho anteriormente fixada”.
+
+>"Ocorre que a natureza do vínculo que liga o servidor ao Estado é de caráter legal e pode, por conseguinte, sofrer modificações no âmbito da legislação ordinária pertinente, as quais o servidor deve obedecer, de modo que **não há direito adquirido do servidor a determinado regime jurídico**, nos termos de tranquila jurisprudência da Suprema Corte." - STF 
+
+**Art 5º:**
+São requisitos básicos para a investidura em cargo público: 
+* a) a nacionalidade brasileira;
+* b) o gozo dos direitos políticos;
+* c) a quitação com as obrigações militares e eleitorais;
+* d) o nível de escolaridade exigido para o exercício do cargo;
+* e) a idade mínima de dezoito anos;
+* f) aptidão física e mental. 
+
+art. 6º do Estatuto dispõe que o provimento dos cargos públicos será feito mediante ato da autoridade competente de cada Poder;
+
+o art. 7º estabelece que a investidura em cargo público ocorrerá com a posse.
