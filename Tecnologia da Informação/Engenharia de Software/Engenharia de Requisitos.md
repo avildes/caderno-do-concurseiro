@@ -63,7 +63,57 @@ O custo para consertar um problema de requisitos por meio de uma mudança no sis
 
 Durante o processo de validação de requisitos, diferentes tipos de verificação devem ser efetuados com os requisitos no documento de requisitos. Essas verificações incluem:
 
+1. **Verificações de Validade:**
+  Um usuário pode pensar que é necessário um sistema para executar determinadas funções. No entanto, maior reflexão e análise mais aprofundada podem identificar funções necessárias, adicionais ou diferentes. Os sistemas têm diversos stakeholders com diferentes necessidades, e qualquer conjunto de requisitos é inevitavelmente um compromisso da comunidade de stakeholders.
+
+2. **Verificações de Consistência:**
+  Requisitos no documento não devem entrar em conflito. Ou seja, não deve haver restrições contraditórias ou descrições diferentes da mesma função do sistema.
+  
+3. **Verificações de Completude:**
+  O documento de requisitos deve incluir requisitos que definam todas as funções e as restrições pretendidas pelo usuário do sistema.
+
+4. **Verificações de Realismo:**
+  Usando o conhecimento das tecnologias existentes, os requisitos devem ser verificados para assegurar que realmente podem ser implementados. Essas verificações devem considerar o orçamento e o cronograma para o desenvolvimento do sistema.
+
+5. **Verificabilidade:**
+  Para reduzir o potencial de conflito entre o cliente e o contratante, os requisitos do sistema devem ser passíveis de verificação. Isso significa que você deve que você deve ser capaz de escrever um conjunto de testes que demonstrem que o sistema entregue atende a cada requisito especificado.
+  
+Existe uma série de técnicas de validação de requisitos que podem ser usadas individualmente ou em conjunto:
+
+1. **Revisões de Requisitos:**
+  Os requisitos são analisados sistematicamente por uma equipe de revisores que verifica erros e inconsistências.
+
+2. **Prototipação:**
+  Nessa abordagem para validação, um modelo executável do sistema em questão é demonstrado para os usuários finais e clientes. Estes podem experimentar o modelo para verificar se ele atende a suas reais necessidades.
+
+3. **Geração de Casos de Teste:**
+  Os requisitos devem ser testáveis. Se os testes forem concebidos como parte do processo de validação, isso frequentemente revela problemas de requisitos. Se é difícil ou impossível projetar um teste, isso normalmente significa que os requisitos serão difíceis de serem implementados e devem ser reconsiderados. O desenvolvimento de testes a partir dos requisitos do usuário antes de qualquer código ser escrito é parte integrante do Extreme Programming.
+  
+Não deve-se subestimar os problemas envolvidos na validação de requisitos. Afinal, é difícil mostrar que um conjunto de requisitos atende de fato às necessidades de um usuário; os usuários precisam imaginar o sistema em operação e como esse sistema se encaixaria em seu trabalho. Até para profissionais qualificados de informática é difícil fazer esse tipo de análise abstrata, e é mais difícil ainda para os usuários do sistema. Como resultado, durante  o processo de validação de requisitos raramente são encontrados todos os problemas de requisitos. Após o ajuste do documento de requisitos, é inevitável a necessidade de mudanças nos requisitos para corrigir omissões e equívocos.
+
 ##Gerenciamento de Requisitos
 
-Matriz de Rastreabilidade
+Os requisitos para sistemas de software estão sempre mudando, mudam inclusive, até quando o sistema já esteja sendo utilizado regularmente, pois os usuários passam a ter uma visão diferente do sistema. Isto é inévitavel e parte integrante do desenvolvimento de um sistema pois a compreensão dos stakeholders vai evoluindo a medida que eles vão tendo contato com o sistema.
+
+O gerenciamento de requisitos é o processo de compreensão e controle das mudanças nos requisitos do sistema. É preciso se manter a par das necessidades individuais e manter as ligações entre as necessidades dependentes para conseguir avaliar o impacto das mudanças nos requisitos. É preciso estabelecer um processo formal para fazer propostas de mudanças e a ligação destas às exigências do sistema. O processo formal de gerenciamento de requisitos deve começar assim que uma versão preliminar do documento de requisitos estiver disponível. No entanto, é importante começar a planejar como gerenciar mudanças de requisitos durante o processo de elicitação de requisitos.
+
+
+###Matriz de Rastreabilidade
+
+A matriz de rastreabilidade é uma ferramenta para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos. Existem diversos tipos de matrizes de rastreabilidade a depender de que artefatos iremos relacionar com os requisitos. Mas, qualquer que seja o tipo de matriz, ela sempre segue o mesmo modelo. Basicamente, coloca-se os objetos sendo rastreados nos eixos de uma tabela e marca-se os pontos de intersecção. No caso mais comum, da matriz de rastreabilidade entre requisitos ou de dependências, repete-se os requisitos nos eixos horizontal e vertical.
+
+Imagine agora que na metade do desenvolvimento do seu projeto você recebe uma solicitação de mudança que envolve alterar um determinado requisito. Sem uma matriz de rastreabilidade, você pode não perceber todo o impacto dessa mudança no seu sistema e acabar tomando decisões equivocadas por não poder realizar uma análise de impacto completa e confiável. Com a matriz, facilmente conseguimos identificar quantos e quais requisitos são afetados por qualquer alteração no sistema, e assim tornamos nossa avaliação de impacto muito mais eficaz.
+
+
+#Fontes: 
+1. Engenharia de Software - Ian Sommerville
+2. EUAX - http://www.euax.com.br/2012/01/matriz-de-rastreabilidade/
+3. Handbook de TI para concursos: O guia definitivo - Camatta, Gobira e Melotti
+
+
+
+
+
+
+
 
