@@ -29,3 +29,13 @@ São requisitos básicos para a investidura em cargo público:
 art. 6º do Estatuto dispõe que o provimento dos cargos públicos será feito mediante ato da autoridade competente de cada Poder;
 
 o art. 7º estabelece que a investidura em cargo público ocorrerá com a posse.
+
+##Concurso
+
+Art. 11.  O concurso será de provas ou de provas e títulos, podendo ser realizado em duas etapas, conforme dispuserem a lei e o regulamento do respectivo plano de carreira, condicionada a inscrição do candidato ao pagamento do valor fixado no edital, quando indispensável ao seu custeio, e ressalvadas as hipóteses de isenção nele expressamente previstas.
+
+Art. 12.  O concurso público terá validade de até 2 (dois ) anos, podendo ser prorrogado uma única vez, por igual período.
+  § 1o  O prazo de validade do concurso e as condições de sua realização serão fixados em edital, que será publicado no Diário Oficial da União e em jornal diário de grande circulação.
+  § 2o  Não se abrirá novo concurso enquanto houver candidato aprovado em concurso anterior com prazo de validade não expirado.
+  
+É importante observar que o concurso público só pode ser prorrogado por um período igual ao período definido no edital. Ou seja, se o concurso tiver uma validade de três meses, ele só pode ser prorrogado por mais três meses.
