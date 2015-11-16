@@ -1,5 +1,7 @@
 #Normas Aplicáveis aos Servidores Federais (Lei 8.112/1990)
 
+Lei: http://www.planalto.gov.br/ccivil_03/LEIS/L8112cons.htm
+
 **Art. 1º:**
  Esta Lei institui o Regime Jurídico dos Servidores Públicos Civis da União, das Autarquias, inclusive as em regime especial, e das Fundações Públicas Federais.
  
