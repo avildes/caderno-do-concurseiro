@@ -134,7 +134,13 @@ Nos dois casos, o servidor retornará ao mesmo cargo que ocupava antes da aposen
 
 ###Aproveitamento
 
-O aproveitamento ocorre quando um servidor é reintegrado e, por consequência, eventual servidor que passou a ocupar o seu cargo precisa ser reconduzido ao cargo de origem ou, se não houver vaga, **aproveitado** em outro cargo ou posto em disponibilidade.
+O aproveitamento ocorre quando um servidor é reintegrado e, por consequência, eventual servidor que passou a ocupar o seu cargo precisa ser reconduzido ao cargo de origem ou, se não houver vaga, **aproveitado** em outro cargo ou posto em disponibilidade. O aproveitamento é o retorno à atividade do servidor que estava em disponibilidade, devendo ocorrer em cargo de atribuições e vencimentos compatíveis com o anteriormente ocupado.
+
+**Obs.: O aproveitamento só se aplica ao servidor ESTÁVEL.**
+
+O aproveitamento é **vinculado** para o agente público e para a Administração. Dessa forma, se houver vaga, o poder público se obriga a realizar o aproveitamento, da mesma forma como o servidor posto em disponibilidade é obrigado a entrar em exercício. Caso o servidor não entrar em exercício no prazo legal, salvo doença comprovada por junta médica oficial, a disponibilidade será **cassada** e o aproveitamento será tornado **sem efeito**.
+
+
 
 ###Reintegração
 
