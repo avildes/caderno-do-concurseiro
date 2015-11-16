@@ -1,7 +1,9 @@
 #Normas Aplicáveis aos Servidores Federais (Lei 8.112/1990)
 
 **Art. 1º:**
- Esta Lei institui o Regime Jurídico dos Servidores Públicos Civis da União, das autarquias, inclusive as em regime especial, e das fundações públicas federais.
+ Esta Lei institui o Regime Jurídico dos Servidores Públicos Civis da União, das Autarquias, inclusive as em regime especial, e das Fundações Públicas Federais.
+ 
+ **Obs.: As regras da lei 8.112/90 só alcançam os órgãos da administração direta, das Autarquias e das Fundações Públicas, não se aplicando às Empresas Públicas e às Sociedades de Economia Mista, cujos empregados públicos submetem-se às regras da CLT.**
 
 Os servidores públicos da administração direta, autárquica e fundacional têm o regime jurídico definido na Lei 8.112/1990. Tal lei é uma lei federal, o que significa dizer que aplica-se exclusivamente a União. Os estados e municípios devem possuir leis próprias para estabelecer o regime de trabalho dos seus servidores. Vale ressaltar que o regime é diferente do que é aplicado aos empregados públicos das empresas públicas e das sociedades de economia mista. Estes submetem-se às regras da CLT.
 
