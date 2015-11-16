@@ -41,3 +41,53 @@ Art. 12.  O concurso público terá validade de até 2 (dois ) anos, podendo ser
 É importante observar que o concurso público só pode ser prorrogado por um período igual ao período definido no edital. Ou seja, se o concurso tiver uma validade de três meses, ele só pode ser prorrogado por mais três meses.
 
 ##Formas de provimento
+
+Art. 8o  São formas de provimento de cargo público:
+  
+  I - nomeação;
+  
+  II - promoção;
+  
+  III - ascensão;(Revogado pela Lei nº 9.527, de 10.12.97)
+  
+  IV - transferência; (Execução suspensa pela RSF nº 46, de 1997)   (Revogado pela Lei nº 9.527, de 10.12.97)
+
+  V - readaptação;
+
+  VI - reversão;
+
+  VII - aproveitamento;
+
+  VIII - reintegração;
+
+  IX - recondução.
+
+Tais Formas de provimento dividem-se em dois grupos: provimento originário e provimento derivado.
+
+O provimento **originário** é o que se faz através da **nomeação**, constituindo o preenchimento inicial do cargo 
+sem que haja qualquer vínculo anterior com a administração. Quando se tratar de provimento em cargos efetivos, o provimento originário dependerá sempre de prévia aprovação em concurso público.
+
+Todas as outras formas de provimentos listadas acima são formas de provimento derivado. Em outras palavras, todas as outras formas de provimento pressupõem a existência de prévio vínculo com a Administração.
+
+###Promoção
+###Readaptação
+
+A readaptação é a forma de provimento derivado aplicável nas situações em que o servidor tenha sofrido alguma limitação em sua capacidade física ou mental. Nesse caso, o servidor será readaptado para um cargo com atribuições e responsabilidades compatíveis com a sua limitação.
+
+###Reversão
+###Aproveitamento
+
+O aproveitamento ocorre quando um servidor é reintegrado e, por consequência, eventual servidor que passou a ocupar o seu cargo precisa ser reconduzido ao cargo de origem ou, se não houver vaga, **aproveitado** em outro cargo ou posto em disponibilidade.
+
+###Reintegração
+
+Na reintegração, um servidor estável é reintegrado ao serviço público em consequência da invalidação da sua demissão.
+
+###Recondução
+
+
+
+
+
+
+
