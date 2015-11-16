@@ -15,6 +15,8 @@ Por outro lado, o regime jurídico dos servidores públicos poderá ser alterado
 
 >"Ocorre que a natureza do vínculo que liga o servidor ao Estado é de caráter legal e pode, por conseguinte, sofrer modificações no âmbito da legislação ordinária pertinente, as quais o servidor deve obedecer, de modo que **não há direito adquirido do servidor a determinado regime jurídico**, nos termos de tranquila jurisprudência da Suprema Corte." - STF 
 
+**Obs.: Servidor Público é o ocupante de CARGO PÚBLICO, podendo ser de PROVIMENTO EFETIVO ou em COMISSÃO.**
+
 **Art 5º:**
 São requisitos básicos para a investidura em cargo público: 
 * a) a nacionalidade brasileira;
