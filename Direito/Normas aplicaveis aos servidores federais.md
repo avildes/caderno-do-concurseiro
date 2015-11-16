@@ -26,9 +26,9 @@ São requisitos básicos para a investidura em cargo público:
 * e) a idade mínima de dezoito anos;
 * f) aptidão física e mental. 
 
-art. 6º do Estatuto dispõe que o provimento dos cargos públicos será feito mediante ato da autoridade competente de cada Poder;
+O art. 6º do Estatuto dispõe que o provimento dos cargos públicos será feito mediante ato da autoridade competente de cada Poder;
 
-o art. 7º estabelece que a investidura em cargo público ocorrerá com a posse.
+O art. 7º estabelece que **a investidura em cargo público ocorrerá com a posse.**
 
 ##Concurso
 
