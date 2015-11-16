@@ -103,6 +103,35 @@ A readaptação deve ser efetivada em cargo de atribuições afins, respeitada a
 O servidor tem direito à readaptação **mesmo que não exista cargo vago**, nesse caso ele exercerá suas atribuições como excedente até a ocorrência da vaga.
 
 ###Reversão
+
+Consiste no retorno à atividade de servidor aposentado. Existem duas modalidades de reversão no Estatuto dos Servidores da União:
+
+* a) **reversão de ofício**: 
+quando junta médica oficial declarar que deixaram de existir os motivos que levaram à aposentadoria por invalidez permanente.
+
+* b) **reversão a pedido**: 
+aplicável ao servidor estável que se aposentou voluntariamente e, após isso, solicitou a reversão de sua aposentadoria.
+
+No caso da reversão de ofício, **independe** se o servidor era estável ou o **cargo está ocupado ou não**. Caso o cargo já esteja provido (ocupado), o servidor exercerá suas atribuições como **excedente**, até a ocorrência da vaga.
+
+A reversão a pedido depende dos seguintes requisitos:
+
+a) tenha o servidor **solicitado** a reversão;
+
+b) a aposentadoria tenha sido **voluntária**;
+
+c) o servidor era **estável** quando na atividade;
+
+d) a aposentadoria tenha ocorrido **nos cinco anos anteriores à solicitação**;
+
+e) haja **cargo vago**.
+
+A reversão a pedido é discricionária, ou seja, ocorre no interesse da administração podendo o pedido ser deferido ou não.
+
+Nos dois casos, o servidor retornará ao mesmo cargo que ocupava antes da aposentadoria ou no cargo resultante de sua tranformação. Além disso, o novo tempo em que o servidor estiver em exercício será considerado para concessão da aposentadoria. No entanto, no caso de a reversão ter ocorrido no interesse da administração (a pedido), o recálculo dos proventos da aposentadoria só ocorrerá se o servidor permanecer pelo menos cinco anos no cargo após a reversão.
+
+**Obs.: a lei 8.112/1990 VEDA a reversão, em qualquer um dos casos, para o servidor que já tiver completado 70 anos de idade, uma vez que, nesse caso, ele já teria ultrapassado o limite para a aposentadoria compulsória.
+
 ###Aproveitamento
 
 O aproveitamento ocorre quando um servidor é reintegrado e, por consequência, eventual servidor que passou a ocupar o seu cargo precisa ser reconduzido ao cargo de origem ou, se não houver vaga, **aproveitado** em outro cargo ou posto em disponibilidade.
