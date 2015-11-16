@@ -82,7 +82,15 @@ Classificação das formas de provimento derivado segundo Celso Antônio Bandeir
 
   é aquele em que o servidor retorna ao serviço ativo do qual estava desligado.
 
+###Nomeação
+
+A nomeação é a única forma de provimento originário admitda em nosso ordenamento jurídico, podendo dar-se para provimento de cargo efetivo ou em comissão. Na primeira situação (cargo efetivo), a nomeação dependerá de prévia aprovação em concurso público de provas ou de provas e títulos. Já quando for para provimento de cargo em comissão, não depende de aprovação em concurso, uma vez que se trata de cargo de livre nomeação ou exoneração.
+
+Obs.: O STF entende que o candidato aprovado em concuso público, dentro do número de vagas previstas no edital, possui direito subjetivo à nomeação.
+
 ###Promoção
+
+
 ###Readaptação
 
 A readaptação é a forma de provimento derivado aplicável nas situações em que o servidor tenha sofrido alguma limitação em sua capacidade física ou mental. Nesse caso, o servidor será readaptado para um cargo com atribuições e responsabilidades compatíveis com a sua limitação.
