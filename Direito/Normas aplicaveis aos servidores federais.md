@@ -39,3 +39,5 @@ Art. 12.  O concurso público terá validade de até 2 (dois ) anos, podendo ser
   § 2o  Não se abrirá novo concurso enquanto houver candidato aprovado em concurso anterior com prazo de validade não expirado.
   
 É importante observar que o concurso público só pode ser prorrogado por um período igual ao período definido no edital. Ou seja, se o concurso tiver uma validade de três meses, ele só pode ser prorrogado por mais três meses.
+
+##Formas de provimento
