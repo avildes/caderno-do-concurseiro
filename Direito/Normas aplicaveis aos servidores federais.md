@@ -69,6 +69,19 @@ sem que haja qualquer vínculo anterior com a administração. Quando se tratar 
 
 Todas as outras formas de provimentos listadas acima são formas de provimento derivado. Em outras palavras, todas as outras formas de provimento pressupõem a existência de prévio vínculo com a Administração.
 
+Classificação das formas de provimento derivado segundo Celso Antônio Bandeira de Mello:
+* a) **Vertical**(promoção):
+
+  é aquele em que o servidor é guindado para cargo mais elevado. Demonstra-se por meio da promoção, em que o servidor é elevado a nível mais alto dentro da própria carreira;
+  
+* b) **Horizontal**(readaptação):
+
+  é aquele em que o servidor não ascende, nem é rebaixado em sua posição funcional. Ocorre por meio da readaptação, que ocorre quando o servidor passa a ocupar novo cargo mais compatível com a superveniente limitação da capacidade física ou mental.
+  
+* c) **Reingresso** (reversão, aproveitamento, reintegração e recondução):
+
+  é aquele em que o servidor retorna ao serviço ativo do qual estava desligado.
+
 ###Promoção
 ###Readaptação
 
