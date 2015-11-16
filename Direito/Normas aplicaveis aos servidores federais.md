@@ -140,17 +140,20 @@ O aproveitamento ocorre quando um servidor é reintegrado e, por consequência, 
 
 O aproveitamento é **vinculado** para o agente público e para a Administração. Dessa forma, se houver vaga, o poder público se obriga a realizar o aproveitamento, da mesma forma como o servidor posto em disponibilidade é obrigado a entrar em exercício. Caso o servidor não entrar em exercício no prazo legal, salvo doença comprovada por junta médica oficial, a disponibilidade será **cassada** e o aproveitamento será tornado **sem efeito**.
 
-
-
 ###Reintegração
 
-Na reintegração, um servidor estável é reintegrado ao serviço público em consequência da invalidação da sua demissão.
+Na reintegração, um servidor estável é reintegrado ao serviço público em consequência da invalidação da sua demissão. Na hipótese de o cargo ter sido **extinto**, o servidor ficará em disponibilidade, até o seu aproveitamento.
+
+Além disso, encontrando-se provido o cargo, o seu eventual ocupante será reconduzido ao cargo de origem, sem direito à indenização, ou aproveitado em outro cargo, ou, ainda, posto em disponibilidade.
 
 ###Recondução
 
+A recondução é o retorno do servidor estável ao cargo anteriormente ocupado. Existem duas hipóteses em que ocorre a recondução, ambas aplicáveis apenas ao **servidor estável**:
 
+a) **inabilitação em estágio probatório relativo a outro cargo**
 
+b) **reintegração do anterior ocupante do cargo**
 
+No primeiro caso, o servidor estável obtém a aprovação, por meio de concurso público, para outro cargo. Todavia, quando em exercício no novo cargo, o servidor não consegue aprovação no estágio probatório, motivo pelo qual não mais poderá permanecer neste cargo. Entretanto, uma vez que o agente possui estabilidade no serviço público, será ele reconduzido ao cargo que ocupava anteriormente.
 
-
-
+**Obs.: Se o cargo ao qual o servidor seria reconduzido estiver ocupado, ele será aproveitado em outro cargo.**
