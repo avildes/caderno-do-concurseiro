@@ -53,7 +53,7 @@ O núcleo da ITIL é composto por cinco publicações, cada uma delas relacionad
 
   Orienta sobre como efetivar a transição de serviços novos e modificados para ambientes operacionais gerenciados, detalhando os processos de planejamento e suporte à transição, gerenciamento de mudanças, gerenciamento da configuração e dos ativos de serviço, gerenciamento da liberação e da distribuição, teste e validação de serviço, avaliação e gerenciamento do conhecimento.
  
- * **Operação de Serviço**:
+* **Operação de Serviço**:
  
   Descreve a fase do ciclo de vida do gerenciamento de serviços que é responsável pelas atividades do dia a dia, orientando sobre como garantir a entrega e o suporte a serviços de forma eficiente e eficaz em ambientes operacionais gerenciados, e detalhando os processos de gerenciamento de eventos, incidentes, problemas, acesso e de cumprimento de requisições.
 
