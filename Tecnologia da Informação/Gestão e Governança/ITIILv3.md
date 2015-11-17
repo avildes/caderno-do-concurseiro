@@ -27,6 +27,18 @@ Em maio de 2007, foi lançada a versão 3 do ITIL consistindo de 26 processos e 
 * Service Operation (Operação do Serviço)
 * Service Improvement (Melhoria Contínua de Serviço)
 
-##Ciclo de Vida do Serviço:
+##Objetivos
+
+Como um **framework**, o principal objetivo da ITIL é prover um conjunto de práticas de gerenciamento de serviços de TI testadas e comprovadas no mercado (organizadas segundo uma lógica de ciclo de vida de serviços), que podem servir como balizadoras, tanto para organizações que já possuem operações de TI em andamento e pretendem empreender melhorias, quanto para a criação de novas operações. A adoção das práticas da ITIL pretende levar uma organização a um grau de maturidade e qualidade que permita o uso eficaz e eficiente dos seus ativos estratégicos de TI (incluindo sistemas de informação e infraestrutura de TI), sempre com o foco no alinhamento e na integração com as necessidades dos clientes e usuários.
+
+A ITIL V3, com sua abordagem de ciclo de vida, permite que se tenha uma visão do gerenciamento de serviços pela perspectiva do próprio serviço, em vez de focar em cada processo ou prática por vez. Esta característica realça mais um importante objetivo, que é mensurar e gerenciar o valor que os serviços de TI efetivamente adicionam ao negócio.
+
+##Estrutura do modelo
+
+###Visão geral e Ciclo de Vida do Serviço:
 
 ![Ciclo de Vida](https://raw.githubusercontent.com/avildes/caderno-do-concurseiro/master/Tecnologia%20da%20Informação/Gest%C3%A3o%20e%20Governan%C3%A7a/ciclodevida.jpg)
+
+O núcleo da ITIL é composto por cinco publicações, cada uma delas relacionada a um estágio do ciclo de vida do serviço, contendo orientações para uma abordagem integrada de gerenciamento de serviços.
+
+
