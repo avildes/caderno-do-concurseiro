@@ -41,4 +41,30 @@ A ITIL V3, com sua abordagem de ciclo de vida, permite que se tenha uma visão d
 
 O núcleo da ITIL é composto por cinco publicações, cada uma delas relacionada a um estágio do ciclo de vida do serviço, contendo orientações para uma abordagem integrada de gerenciamento de serviços.
 
+* **Estratégia de Serviço**:
 
+  Orienta sobre como visualizar o gerenciamento de serviços não somente como uma capacidade organizacional, e sim como um ativo estratégico, e descreve os princípios inerentes à prática desta disciplina que são úteis para criar políticas, diretrizes e processos de gerenciamento de serviços ao longo do ciclo de vida de serviço. Entre os tópicos abordados nesta publicação, estão a criação de valor através dos serviços, os ativos de serviço, provedores e tipos de serviços, gerenciamento financeiro, portfólio de serviços, desenvolvimento organizacional, riscos estratégicos, etc.
+  
+* **Desenho de Serviço**:
+
+  Fornece orientação para o desenho e desenvolvimento dos serviços e das práticas de gerenciamento de serviços, do nível de serviço, da capacidade, da disponibilidade, da continuidade, da segurança da informação e dos fornecedores, além de mudanças e melhorias necessárias para manter ou agregar valor aos clientes ao longo do ciclo de vida do serviço.
+  
+* **Transição de Serviço**:
+
+  Orienta sobre como efetivar a transição de serviços novos e modificados para ambientes operacionais gerenciados, detalhando os processos de planejamento e suporte à transição, gerenciamento de mudanças, gerenciamento da configuração e dos ativos de serviço, gerenciamento da liberação e da distribuição, teste e validação de serviço, avaliação e gerenciamento do conhecimento.
+ 
+ * **Operação de Serviço**:
+ 
+  Descreve a fase do ciclo de vida do gerenciamento de serviços que é responsável pelas atividades do dia a dia, orientando sobre como garantir a entrega e o suporte a serviços de forma eficiente e eficaz em ambientes operacionais gerenciados, e detalhando os processos de gerenciamento de eventos, incidentes, problemas, acesso e de cumprimento de requisições.
+
+* **Melhoria Contínua de Serviço**:
+
+  Orienta, através de princípios, práticas e métodos de gerenciamento da qualidade, sobre como fazer sistematicamente melhorias incrementais e de larga escala na qualidade do serviço, nas metas de eficiência operacional, na continuidade do serviço etc., com base no modelo PDCA (Plan-Do-Check-Act).
+  
+Os processos da ITIL encontram-se distribuídos entre os cinco estágios:
+
+| Estágios | Processos | Funções |
+
+
+#Fontes
+Implantando a governança de TI - 4º edição - Aguinaldo Aragon e Vladimir Ferraz
