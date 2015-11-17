@@ -64,6 +64,13 @@ O núcleo da ITIL é composto por cinco publicações, cada uma delas relacionad
 Os processos da ITIL encontram-se distribuídos entre os cinco estágios:
 
 | Estágios | Processos | Funções |
+---|---|---
+| Estratégia de Serviço | <ul><li>Gerenciamento Estratégico para Serviços de TI</li><li>Gerenciamento Financeiro de TI</li><li>Gerenciamento do Portfólio de Serviços</li><li>Gerenciamento da Demanda</li><li>Gerenciamento do Relacionamento com o negócio</li></ul> |  |
+| Desenho de Serviço | <ul><li>Coordenação do Desenho</li><li>Gerenciamento do Catálogo de Serviços</li><li>Gerenciamento do Nível de Serviço</li><li>Gerenciamento da Capacidade</li><li>Gerenciamento da Disponibilidade</li><li>Gerenciamento da Continuidade do Serviço</li><li>Gerenciamento da Segurança da Informação</li><li>Gerenciamento de Fornecedores</li></ul> |  |
+| Transição de Serviço | <ul><li>Planejamento e suporte à transição</li><li>Gerenciamento de mudanças</li><li>Gerenciamento de Ativos de Serviço e da Configuração</li><li>Gerenciamento da Liberação e da Distribuição</li><li>Validação e Teste do Serviço</li><li>Avaliação de Mudança</li><li>Gerenciamento do Conhecimento</li></ul>|  |
+| Operação de Serviço | <ul><li>Gerenciamento de Eventos</li><li>Gerenciamento de Incidentes</li><li>Cumprimento de Requisições</li><li>Gerenciamento de Problemas</li><li>Gerenciamento do Acesso</li></ul> | <ul><li>Central de Serviços</li><li>Gerenciamento Técnico</li><li>Gerenciamento das Operações de TI</li><li>Gerenciamento de Aplicações</li><ul> |
+| Melhoria Contínua de Serviço | <ul><li>Processo de Melhoria em 7 Passos</li></ul> | |
+
 
 
 #Fontes
