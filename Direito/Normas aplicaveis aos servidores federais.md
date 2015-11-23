@@ -159,3 +159,7 @@ No primeiro caso, o servidor estável obtém a aprovação, por meio de concurso
 **Obs.: Se o cargo ao qual o servidor seria reconduzido estiver ocupado, ele será aproveitado em outro cargo.**
 
 
+
+
+###Funções de confiança
+Art. 37 V - as funções de confiança, exercidas exclusivamente por servidores ocupantes de cargo efetivo, e os cargos em comissão, a serem preenchidos por servidores de carreira nos casos, condições e percentuais mínimos previstos em lei, destinam-se apenas às atribuições de direção, chefia e assessoramento
