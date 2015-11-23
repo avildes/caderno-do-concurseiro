@@ -157,3 +157,5 @@ b) **reintegração do anterior ocupante do cargo**
 No primeiro caso, o servidor estável obtém a aprovação, por meio de concurso público, para outro cargo. Todavia, quando em exercício no novo cargo, o servidor não consegue aprovação no estágio probatório, motivo pelo qual não mais poderá permanecer neste cargo. Entretanto, uma vez que o agente possui estabilidade no serviço público, será ele reconduzido ao cargo que ocupava anteriormente.
 
 **Obs.: Se o cargo ao qual o servidor seria reconduzido estiver ocupado, ele será aproveitado em outro cargo.**
+
+
