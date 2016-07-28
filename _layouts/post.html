@@ -34,8 +34,8 @@
                 </div>
               </header>
               {% if page.image %}
-                <a href="{{ page.url }}" class="image featured"><img src="{{ site.url }}{{page.image}}" alt="" /></a>
-              {% endif %}
+                <a href="{{ page.url }}" class="image featured"><img src="{{ site.url }}{{page.image}}" alt="" />
+              
               
               <p>
               	siteurl: {{ site.url }}
@@ -46,7 +46,8 @@
               	</p><p>
               	page.image: {{ page.image }}
               	</p>
-              
+              	</a>
+              {% endif %}
               {{ content }}
               <footer>
                 <ul class="stats">
