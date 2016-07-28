@@ -36,6 +36,17 @@
               {% if page.image %}
                 <a href="{{ page.url }}" class="image featured"><img src="{{ site.url }}{{page.image}}" alt="" /></a>
               {% endif %}
+              
+              <p>
+              	siteurl: {{ site.url }}
+              	</p><p>
+              	sitebaseurl: {{ site.baseurl }}
+              	</p><p>
+              	page.url: {{ page.url }}
+              	</p><p>
+              	page.image: {{ page.image }}
+              	</p>
+              
               {{ content }}
               <footer>
                 <ul class="stats">
